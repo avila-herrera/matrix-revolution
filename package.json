@@ -1,0 +1,9 @@
+{
+  "name": "avila-herrera-system",
+  "version": "1.0.0",
+  "description": "Sistema inmobiliario Ávila Herrera",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

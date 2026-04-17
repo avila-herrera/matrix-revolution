@@ -1,0 +1,778 @@
+{
+  "desarrolladores": [
+    {
+      "id": 1,
+      "codigo": "DES-002-MOH",
+      "empresa": "Constructora Modern House S.A. de C.V.",
+      "rfc": "XXXX-000000-00X",
+      "proyectosActivos": 3,
+      "proyectosTotal": 8,
+      "estatus": "Activo",
+      "representante": "José Luis Lozano Estrada",
+      "calle": "Real De Acueducto",
+      "numero": "360-A",
+      "colonia": "Puerta de Hierro",
+      "cp": "45116",
+      "municipio": "Guadalajara",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco",
+      "telefono": "—",
+      "correo": "—"
+    },
+    {
+      "id": 2,
+      "codigo": "DES-001-AHG",
+      "empresa": "Ávila Herrera Grupo Inmobiliario S.A. de C.V.",
+      "rfc": "XXXX-000000-00X",
+      "proyectosActivos": 2,
+      "proyectosTotal": 6,
+      "estatus": "Inactivo",
+      "representante": "Daniel Ávila Herreraila",
+      "calle": "Real De Acueducto",
+      "numero": "360-A",
+      "colonia": "Puerta de Hierro",
+      "cp": "45116",
+      "municipio": "Zapopan",
+      "ciudad": "Zapopan - Jalisco",
+      "estado": "Jalisco",
+      "telefono": "—",
+      "correo": "—"
+    },
+    {
+      "id": 3,
+      "codigo": "DES-003-CBE",
+      "empresa": "Constructora Benkis S.A. DE C.V.",
+      "rfc": "CBE9005098D6",
+      "proyectosActivos": 1,
+      "proyectosTotal": 3,
+      "estatus": "Inactivo",
+      "representante": "Jorge Arturo Orozco Garcia",
+      "calle": "Av Moctezuma",
+      "numero": "6484 Int. 20",
+      "colonia": "Hacienda del Tepeyac",
+      "cp": "45053",
+      "municipio": "Zapopan",
+      "ciudad": "Zona metropolitana de Guadalajara",
+      "estado": "Jalisco",
+      "telefono": "—",
+      "correo": "—"
+    },
+    {
+      "id": 4,
+      "codigo": "DES-004-D&G",
+      "empresa": "Diseño y Gestión Inmobiliaria S.A. de C.V.",
+      "rfc": "XXXX-000000-00X",
+      "proyectosActivos": 0,
+      "proyectosTotal": 4,
+      "estatus": "Inactivo",
+      "representante": "Ricardo",
+      "calle": "Av Pablo Neruda",
+      "numero": "2560",
+      "colonia": "Providencia, 2da. Sección",
+      "cp": "44630",
+      "municipio": "Guadalajara",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "telefono": "—",
+      "correo": "—"
+    }
+  ],
+  "desarrollos": [
+    {
+      "id": 1,
+      "desarrolladorId": 1,
+      "nombre": "Brio Residences",
+      "ubicacion": "Zapopan, Jalisco",
+      "precioMin": "$2,800,000",
+      "precioMax": "$4,500,000",
+      "entrega": "—",
+      "estatus": "Etapa cero (Friends & Family)",
+      "badgeClass": "etapa-cero",
+      "imagen": "02 IMAGENES DE DESARROLLOS/01_BRIO_RESIDENCES.png",
+      "unidades": 48,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 2,
+      "desarrolladorId": 1,
+      "nombre": "Casa Paulsen",
+      "ubicacion": "Guadalajara, Jalisco",
+      "precioMin": "$3,200,000",
+      "precioMax": "$6,800,000",
+      "entrega": "—",
+      "estatus": "Preventa permisos y licencias",
+      "badgeClass": "pv-permisos",
+      "imagen": "02 IMAGENES DE DESARROLLOS/02_CASA_PAULSEN.png",
+      "unidades": 72,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 3,
+      "desarrolladorId": 1,
+      "nombre": "MH Living I",
+      "ubicacion": "Av. Mariano Otero 2510, Jardines del Bosque, 44520 Guadalajara, Jal.",
+      "precioMin": "$1,850,000",
+      "precioMax": "—",
+      "entrega": "8",
+      "estatus": "Preventa lanzamiento comercial",
+      "badgeClass": "pv-permisos",
+      "imagen": "02 IMAGENES DE DESARROLLOS/05_MH_LIVING_I.png",
+      "unidades": 96,
+      "activoSistema": "Activo",
+      "mesesEntregaInicial": 9,
+      "cronometroActivo": true,
+      "fechaEntregaObjetivo": "2026-12-23T23:43:44.818Z",
+      "mesesRestantesCongelados": null
+    },
+    {
+      "id": 4,
+      "desarrolladorId": 1,
+      "nombre": "MH Living II",
+      "ubicacion": "San Pedro Tlaquepaque",
+      "precioMin": "",
+      "precioMax": "—",
+      "entrega": "35",
+      "estatus": "Preventa const-cimentación",
+      "badgeClass": "pv-const",
+      "imagen": "02 IMAGENES DE DESARROLLOS/06_MH_LIVING_II.png",
+      "unidades": 24,
+      "activoSistema": "Inactivo",
+      "mesesEntregaInicial": 36,
+      "cronometroActivo": true,
+      "fechaEntregaObjetivo": "2029-03-24T01:14:16.226Z",
+      "mesesRestantesCongelados": null
+    },
+    {
+      "id": 5,
+      "desarrolladorId": 1,
+      "nombre": "Treeview",
+      "ubicacion": "Chapala, Jalisco",
+      "precioMin": "$2,200,000",
+      "precioMax": "$3,900,000",
+      "entrega": "—",
+      "estatus": "Preventa const-estructura",
+      "badgeClass": "preventa",
+      "imagen": "02 IMAGENES DE DESARROLLOS/08_TREEVIEW.png",
+      "unidades": 60,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 6,
+      "desarrolladorId": 1,
+      "nombre": "Torre Tlali",
+      "ubicacion": "Puerto Vallarta, Jalisco",
+      "precioMin": "$3,700,000",
+      "precioMax": "$7,200,000",
+      "entrega": "—",
+      "estatus": "Preventa const-ingenierías",
+      "badgeClass": "preventa",
+      "imagen": "02 IMAGENES DE DESARROLLOS/09_TORRE_TLALI.png",
+      "unidades": 48,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 7,
+      "desarrolladorId": 1,
+      "nombre": "Central Scorza",
+      "ubicacion": "Guadalajara, Jalisco",
+      "precioMin": "$2,500,000",
+      "precioMax": "$5,200,000",
+      "entrega": "—",
+      "estatus": "Preventa const-acabados",
+      "badgeClass": "preventa",
+      "imagen": "02 IMAGENES DE DESARROLLOS/12_CENTRAL_SCORZA.png",
+      "unidades": 56,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 8,
+      "desarrolladorId": 1,
+      "nombre": "Madison Chapalita",
+      "ubicacion": "Zapopan, Jalisco",
+      "precioMin": "$3,100,000",
+      "precioMax": "$5,800,000",
+      "entrega": "—",
+      "estatus": "Etapa cero (Friends & Family)",
+      "badgeClass": "etapa-cero",
+      "imagen": "02 IMAGENES DE DESARROLLOS/13_MADISON_CHAPALITA.png",
+      "unidades": 40,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 9,
+      "desarrolladorId": 1,
+      "nombre": "Quadrante Torre A",
+      "ubicacion": "Guadalajara, Jalisco",
+      "precioMin": "$4,200,000",
+      "precioMax": "$8,900,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/14_QUADRANTE_TORRE_A.png",
+      "unidades": 64,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 10,
+      "desarrolladorId": 1,
+      "nombre": "Almira",
+      "ubicacion": "Tlajomulco, Jalisco",
+      "precioMin": "$1,950,000",
+      "precioMax": "$3,400,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/18_ALMIRA.png",
+      "unidades": 80,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 11,
+      "desarrolladorId": 1,
+      "nombre": "Kartesia",
+      "ubicacion": "Zapopan, Jalisco",
+      "precioMin": "$3,600,000",
+      "precioMax": "$6,200,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/19_KARTESIA.png",
+      "unidades": 36,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 12,
+      "desarrolladorId": 1,
+      "nombre": "María José Living",
+      "ubicacion": "San Pedro Tlaquepaque",
+      "precioMin": "$2,100,000",
+      "precioMax": "$4,100,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/20_MARIA_JOSE_LIVING.png",
+      "unidades": 32,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 13,
+      "desarrolladorId": 1,
+      "nombre": "Estelar",
+      "ubicacion": "Guadalajara, Jalisco",
+      "precioMin": "$2,700,000",
+      "precioMax": "$4,800,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/21_ESTELAR.png",
+      "unidades": 52,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 14,
+      "desarrolladorId": 1,
+      "nombre": "The Light House",
+      "ubicacion": "Puerto Vallarta, Jalisco",
+      "precioMin": "$5,100,000",
+      "precioMax": "$9,500,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/22_THE_LIGHT_HOUSE.png",
+      "unidades": 28,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 15,
+      "desarrolladorId": 1,
+      "nombre": "MH Living Signature",
+      "ubicacion": "Zapopan, Jalisco",
+      "precioMin": "$3,900,000",
+      "precioMax": "$7,600,000",
+      "entrega": "—",
+      "estatus": "Entrega inmediata",
+      "badgeClass": "entrega",
+      "imagen": "02 IMAGENES DE DESARROLLOS/23_MH_LIVING_SIGNATURE.png",
+      "unidades": 44,
+      "activoSistema": "Inactivo"
+    },
+    {
+      "id": 16,
+      "nombre": "MH Living I.",
+      "ubicacion": "Av. Mariano Otero 2510, Jardines del Bosque, 44520 Guadalajara, Jal.",
+      "desarrolladorId": 1,
+      "precioMax": "—",
+      "mesesEntregaInicial": 9,
+      "cronometroActivo": true,
+      "fechaEntregaObjetivo": "2026-12-23T23:43:44.818Z",
+      "mesesRestantesCongelados": null,
+      "entrega": "8",
+      "unidades": 0,
+      "imagen": "02 IMAGENES DE DESARROLLOS/05a_MH_LIVING_I..png",
+      "estatus": "Preventa const-acabados",
+      "badgeClass": "pv-const",
+      "activoSistema": "Activo"
+    }
+  ],
+  "unidades": [],
+  "personal": [
+    {
+      "id": 1,
+      "nombre": "Daniel Gonzalez",
+      "categoria": "",
+      "departamento": "",
+      "telefono": "",
+      "desarrollo": "",
+      "alta": "",
+      "estatus": "Activo",
+      "usuario": "daniel.gonzalez",
+      "password": "b90807cb334b0b43e143f7dd2b59abcb8c5fe337386733ffa3d8dc3bee0086af",
+      "accesoSistema": true
+    },
+    {
+      "id": 2,
+      "nombre": "José Enrique Austria",
+      "categoria": "",
+      "departamento": "",
+      "telefono": "",
+      "desarrollo": "",
+      "alta": "",
+      "estatus": "Activo",
+      "usuario": "jose.austria",
+      "password": "f8456b6f2aeed7076e074745e66734fbc1d308287e3c390fc4b6c23d135a4134",
+      "accesoSistema": true
+    },
+    {
+      "id": 3,
+      "nombre": "Alejandro Vallejo",
+      "categoria": "Administrador de Sistemas",
+      "departamento": "",
+      "telefono": "",
+      "desarrollo": "",
+      "alta": "",
+      "estatus": "Activo",
+      "usuario": "alejandro",
+      "password": "7d9e30ee33b8d84bdd92d5cca2dcf8c4d6b24c9898d2f4905d4eb39a1850f879",
+      "accesoSistema": true
+    },
+    {
+      "id": 4,
+      "nombre": "Haydee Gonzalez",
+      "categoria": "",
+      "departamento": "",
+      "telefono": "",
+      "desarrollo": "",
+      "alta": "",
+      "estatus": "Activo",
+      "usuario": "haydee.gonzalez",
+      "password": "24d2f9c84d162db72045c57ac6503b93eab509ab2098cc2928b228229ac430ad",
+      "accesoSistema": true
+    },
+    {
+      "id": 5,
+      "nombre": "Juan Miguel Garcia",
+      "categoria": "",
+      "departamento": "",
+      "telefono": "",
+      "desarrollo": "",
+      "alta": "",
+      "estatus": "Activo",
+      "usuario": "juanmiguel.garcia",
+      "password": "e1889da4d0f39ca852c35f17d47f12525b650365e054141b041b6298b21e73c6",
+      "accesoSistema": true
+    }
+  ],
+  "categoriasPersonal": [
+    {
+      "departamento": "Administración General",
+      "nombre": "Gerente Administrativo",
+      "descripcion": "Gestión interna y finanzas",
+      "estatus": "Activo",
+      "id": 1,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Administración General",
+      "nombre": "Coordinador Administrativo",
+      "descripcion": "Coordinación de procesos administrativos",
+      "estatus": "Activo",
+      "id": 2,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Administración General",
+      "nombre": "Administrativo",
+      "descripcion": "Operación administrativa general",
+      "estatus": "Activo",
+      "id": 3,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Administración General",
+      "nombre": "Auxiliar Administrativo",
+      "descripcion": "Soporte operativo y documental",
+      "estatus": "Activo",
+      "id": 4,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Legal",
+      "nombre": "Coordinador Legal",
+      "descripcion": "Coordinación jurídica y contratos",
+      "estatus": "Activo",
+      "id": 5,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Legal",
+      "nombre": "Abogado",
+      "descripcion": "Asesoría jurídica",
+      "estatus": "Activo",
+      "id": 6,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Legal",
+      "nombre": "Auxiliar Legal",
+      "descripcion": "Apoyo en gestión legal",
+      "estatus": "Activo",
+      "id": 7,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Marketing",
+      "nombre": "Coordinador de Marketing",
+      "descripcion": "Estrategia de marca y comunicación",
+      "estatus": "Activo",
+      "id": 8,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Marketing",
+      "nombre": "Trafficker Digital",
+      "descripcion": "Gestión de pauta digital",
+      "estatus": "Activo",
+      "id": 9,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Marketing",
+      "nombre": "Filmmaker",
+      "descripcion": "Producción audiovisual",
+      "estatus": "Activo",
+      "id": 10,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Marketing",
+      "nombre": "Diseñador",
+      "descripcion": "Diseño gráfico y visual",
+      "estatus": "Activo",
+      "id": 11,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Marketing",
+      "nombre": "Community Manager",
+      "descripcion": "Gestión de redes sociales",
+      "estatus": "Activo",
+      "id": 12,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Comercial",
+      "nombre": "Gerente Comercial",
+      "descripcion": "Dirección del área comercial",
+      "estatus": "Activo",
+      "id": 13,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Comercial",
+      "nombre": "Coordinador Comercial",
+      "descripcion": "Coordinación del equipo de ventas",
+      "estatus": "Activo",
+      "id": 14,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Comercial",
+      "nombre": "Asesor Senior",
+      "descripcion": "Ventas y cierre de unidades",
+      "estatus": "Activo",
+      "id": 15,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Comercial",
+      "nombre": "Asesor Junior",
+      "descripcion": "Atención y seguimiento de clientes",
+      "estatus": "Activo",
+      "id": 16,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Tecnología",
+      "nombre": "Administrador de Sistemas",
+      "descripcion": "Infraestructura digital y sistemas",
+      "estatus": "Activo",
+      "id": 17,
+      "asignados": 0,
+      "modulos": [
+        "dashboard",
+        "desarrolladores",
+        "desarrollos",
+        "inventario",
+        "departamentos",
+        "categorias-personal",
+        "catalogo-personal",
+        "estatus",
+        "planes",
+        "descuentos-plan",
+        "asignacion-planes"
+      ]
+    },
+    {
+      "departamento": "Tecnología",
+      "nombre": "Desarrollador",
+      "descripcion": "Desarrollo de software",
+      "estatus": "Activo",
+      "id": 18,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Tecnología",
+      "nombre": "Soporte Técnico",
+      "descripcion": "Soporte y mantenimiento técnico",
+      "estatus": "Activo",
+      "id": 19,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Control de Calidad",
+      "nombre": "Coordinador de Calidad",
+      "descripcion": "Supervisión de estándares y procesos",
+      "estatus": "Activo",
+      "id": 20,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Control de Calidad",
+      "nombre": "Supervisor de Calidad",
+      "descripcion": "Supervisión operativa de calidad",
+      "estatus": "Activo",
+      "id": 21,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Control de Calidad",
+      "nombre": "Inspector",
+      "descripcion": "Inspección técnica en campo",
+      "estatus": "Activo",
+      "id": 22,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Recursos Humanos",
+      "nombre": "Coordinador RH",
+      "descripcion": "Gestión de personal y bienestar organizacional",
+      "estatus": "Activo",
+      "id": 23,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Recursos Humanos",
+      "nombre": "Generalista RH",
+      "descripcion": "Operación integral de RRHH",
+      "estatus": "Activo",
+      "id": 24,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Recursos Humanos",
+      "nombre": "Auxiliar RH",
+      "descripcion": "Apoyo administrativo en RRHH",
+      "estatus": "Activo",
+      "id": 25,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Obra",
+      "nombre": "Coordinador de Obra",
+      "descripcion": "Coordinación general de obra",
+      "estatus": "Activo",
+      "id": 26,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Obra",
+      "nombre": "Supervisor de Obra",
+      "descripcion": "Supervisión de avances de obra",
+      "estatus": "Activo",
+      "id": 27,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Obra",
+      "nombre": "Residente de Obra",
+      "descripcion": "Control técnico en sitio",
+      "estatus": "Activo",
+      "id": 28,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Valuación",
+      "nombre": "Coordinador de Valuación",
+      "descripcion": "Coordinación de valuaciones inmobiliarias",
+      "estatus": "Activo",
+      "id": 29,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Valuación",
+      "nombre": "Valuador",
+      "descripcion": "Análisis y estimación de valor",
+      "estatus": "Activo",
+      "id": 30,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Valuación",
+      "nombre": "Analista de Valuación",
+      "descripcion": "Análisis de datos para valuación",
+      "estatus": "Activo",
+      "id": 31,
+      "asignados": 0,
+      "modulos": []
+    },
+    {
+      "departamento": "Valuación",
+      "nombre": "Auxiliar de Valuación",
+      "descripcion": "Apoyo en procesos de valuación",
+      "estatus": "Activo",
+      "id": 32,
+      "asignados": 0,
+      "modulos": []
+    }
+  ],
+  "departamentos": [
+    {
+      "id": 1,
+      "nombre": "Administración General",
+      "clave": "ADM",
+      "descripcion": "Gestión corporativa y dirección del grupo",
+      "responsable": "Jorge Herrera",
+      "estatus": "Activo"
+    },
+    {
+      "id": 2,
+      "nombre": "Legal",
+      "clave": "LEG",
+      "descripcion": "Asesoría jurídica y contratos",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 3,
+      "nombre": "Marketing",
+      "clave": "MKT",
+      "descripcion": "Estrategia de marca y comunicación",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 4,
+      "nombre": "Comercial",
+      "clave": "COME",
+      "descripcion": "Ventas, preventas y relación con clientes",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 5,
+      "nombre": "Tecnología",
+      "clave": "TEC",
+      "descripcion": "Infraestructura digital y sistemas",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 6,
+      "nombre": "Control de Calidad",
+      "clave": "CAL",
+      "descripcion": "Supervisión de estándares y procesos",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 7,
+      "nombre": "Recursos Humanos",
+      "clave": "RRHH",
+      "descripcion": "Gestión de personal y bienestar organizacional",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 8,
+      "nombre": "Obra",
+      "clave": "OBR",
+      "descripcion": "Planeación, supervisión y ejecución de obra",
+      "responsable": "—",
+      "estatus": "Activo"
+    },
+    {
+      "id": 9,
+      "nombre": "Valuación",
+      "clave": "VAL",
+      "descripcion": "Análisis, estimación y dictaminación de valor inmobiliario",
+      "responsable": "—",
+      "estatus": "Activo"
+    }
+  ],
+  "planesPago": [],
+  "descuentosMatriz": {
+    "1": {
+      "00-00-00": 0,
+      "5-10-85": 0,
+      "25-00-75": 0,
+      "20-20-60": 0
+    }
+  },
+  "asignacionPlanes": {
+    "3": {
+      "flex1": "30-70",
+      "flex2": "30-20-50",
+      "flex3": "60-20-20",
+      "contado": "50-50"
+    }
+  }
+}
