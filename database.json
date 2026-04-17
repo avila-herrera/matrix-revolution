@@ -314,71 +314,2844 @@
       "activoSistema": "Activo"
     }
   ],
-  "unidades": [],
+  "unidades": [
+    {
+      "id": 1,
+      "clave": "D1",
+      "tipologia": "D1-MH-1-COM",
+      "tipo": "D1",
+      "desarrolloId": 16,
+      "sup": 29.55,
+      "precio": "$1,876,425",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 2,
+      "clave": "D2",
+      "tipologia": "D2-MH-1-COM",
+      "tipo": "D2",
+      "desarrolloId": 16,
+      "sup": 29,
+      "precio": "$1,841,500",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 3,
+      "clave": "D3",
+      "tipologia": "D3-MH-1-COM",
+      "tipo": "D3",
+      "desarrolloId": 16,
+      "sup": 23.37,
+      "precio": "$1,483,995",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 4,
+      "clave": "D4",
+      "tipologia": "D4-MH-1-COM",
+      "tipo": "D4",
+      "desarrolloId": 16,
+      "sup": 23.22,
+      "precio": "$1,474,470",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 5,
+      "clave": "D5",
+      "tipologia": "D5-MH-1-COM",
+      "tipo": "D5",
+      "desarrolloId": 16,
+      "sup": 26.83,
+      "precio": "$1,703,705",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 6,
+      "clave": "D6",
+      "tipologia": "D6-MH-1-COM",
+      "tipo": "D6",
+      "desarrolloId": 16,
+      "sup": 29.73,
+      "precio": "$1,887,855",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 7,
+      "clave": "D7",
+      "tipologia": "D7-MH-1-COM",
+      "tipo": "D7",
+      "desarrolloId": 16,
+      "sup": 33.41,
+      "precio": "$2,121,535",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 8,
+      "clave": "D8",
+      "tipologia": "D8-MH-1-COM",
+      "tipo": "D8",
+      "desarrolloId": 16,
+      "sup": 22.44,
+      "precio": "$1,424,940",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 9,
+      "clave": "D9",
+      "tipologia": "D9-MH-1-COM",
+      "tipo": "D9",
+      "desarrolloId": 16,
+      "sup": 26.11,
+      "precio": "$1,657,985",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 10,
+      "clave": "D10",
+      "tipologia": "D10-MH-1-COM",
+      "tipo": "D10",
+      "desarrolloId": 16,
+      "sup": 24.87,
+      "precio": "$1,579,245",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 11,
+      "clave": "D11",
+      "tipologia": "D11-MH-1-COM",
+      "tipo": "D11",
+      "desarrolloId": 16,
+      "sup": 24.69,
+      "precio": "$1,567,815",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 12,
+      "clave": "D12",
+      "tipologia": "D12-MH-1-COM",
+      "tipo": "D12",
+      "desarrolloId": 16,
+      "sup": 30.46,
+      "precio": "$1,934,210",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 13,
+      "clave": "201",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,260,750.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 14,
+      "clave": "202",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,039,950.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 15,
+      "clave": "203",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,177,450.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 16,
+      "clave": "204",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.72,
+      "precio": "$3,223,680.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 17,
+      "clave": "205",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,715,150.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 18,
+      "clave": "206",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,039,450.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 19,
+      "clave": "207",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$3,891,600.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 20,
+      "clave": "301",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,303,358.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 21,
+      "clave": "302",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,080,350.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 22,
+      "clave": "303",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,209,225.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 23,
+      "clave": "304",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,209,225.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 24,
+      "clave": "305",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,742,302.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 25,
+      "clave": "306",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,069,845.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 26,
+      "clave": "307",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$3,930,516.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 27,
+      "clave": "401",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,346,391.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 28,
+      "clave": "402",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,121,153.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 29,
+      "clave": "403",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,241,317.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 30,
+      "clave": "404",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,241,317.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 31,
+      "clave": "405",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,769,725.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 32,
+      "clave": "406",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,100,543.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 33,
+      "clave": "407",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$3,969,821.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 34,
+      "clave": "501",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,389,855.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 35,
+      "clave": "502",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,162,365.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 36,
+      "clave": "503",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,273,730.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 37,
+      "clave": "504",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.72,
+      "precio": "$3,321,361.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 38,
+      "clave": "505",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,797,422.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 39,
+      "clave": "506",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,131,548.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 40,
+      "clave": "507",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,009,519.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 41,
+      "clave": "601",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,433,754.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 42,
+      "clave": "602",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,203,988.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 43,
+      "clave": "603",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,306,467.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 44,
+      "clave": "604",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,306,467.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 45,
+      "clave": "605",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,825,396.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 46,
+      "clave": "606",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,162,864.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 47,
+      "clave": "607",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,049,615.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 48,
+      "clave": "701",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,478,091.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 49,
+      "clave": "702",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,246,028.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 50,
+      "clave": "703",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,339,532.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 51,
+      "clave": "704",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.72,
+      "precio": "$3,388,120.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 52,
+      "clave": "705",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,853,650.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 53,
+      "clave": "706",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,194,493.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 54,
+      "clave": "707",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,090,111.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 55,
+      "clave": "801",
+      "tipologia": "TIPO 1-MH-10000",
+      "tipo": "TIPO 1",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,522,872.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 56,
+      "clave": "802",
+      "tipologia": "TIPO 2-MH-10000",
+      "tipo": "TIPO 2",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,288,488.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 57,
+      "clave": "803",
+      "tipologia": "TIPO 3-MH-10000",
+      "tipo": "TIPO 3",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,372,927.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 58,
+      "clave": "804",
+      "tipologia": "TIPO 4-MH-10000",
+      "tipo": "TIPO 4",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,372,927.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 59,
+      "clave": "805",
+      "tipologia": "TIPO 5-MH-10000",
+      "tipo": "TIPO 5",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,882,186.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 60,
+      "clave": "806",
+      "tipologia": "TIPO 6-MH-10000",
+      "tipo": "TIPO 6",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,226,437.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 61,
+      "clave": "807",
+      "tipologia": "TIPO 7-MH-10000",
+      "tipo": "TIPO 7",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,131,012.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 62,
+      "clave": "901 - PH1",
+      "tipologia": "TIPO 8-MH-10000",
+      "tipo": "TIPO 8",
+      "desarrolloId": 3,
+      "sup": 82.5,
+      "precio": "$6,103,130.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 3,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 63,
+      "clave": "904 - PH4",
+      "tipologia": "TIPO 11-MH-10000",
+      "tipo": "TIPO 11",
+      "desarrolloId": 3,
+      "sup": 90.1,
+      "precio": "$6,665,358.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 64,
+      "clave": "902-A",
+      "tipologia": "902-A-MH-1-COM",
+      "tipo": "902-A",
+      "desarrolloId": 16,
+      "sup": 25.1,
+      "precio": "$1,719,350.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 65,
+      "clave": "902-B",
+      "tipologia": "902-B-MH-1-COM",
+      "tipo": "902-B",
+      "desarrolloId": 16,
+      "sup": 26,
+      "precio": "$1,781,000.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 66,
+      "clave": "902-C",
+      "tipologia": "902-C-MH-1-COM",
+      "tipo": "902-C",
+      "desarrolloId": 16,
+      "sup": 30.9,
+      "precio": "$2,116,650.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 67,
+      "clave": "903-A",
+      "tipologia": "903-A-MH-1-COM",
+      "tipo": "903-A",
+      "desarrolloId": 16,
+      "sup": 22.5,
+      "precio": "$1,541,250.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 68,
+      "clave": "903-B",
+      "tipologia": "903-B-MH-1-COM",
+      "tipo": "903-B",
+      "desarrolloId": 16,
+      "sup": 25.7,
+      "precio": "$1,760,450.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 69,
+      "clave": "903-C",
+      "tipologia": "903-C-MH-1-COM",
+      "tipo": "903-C",
+      "desarrolloId": 16,
+      "sup": 33.34,
+      "precio": "$2,283,790.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 70,
+      "clave": "101",
+      "tipologia": "TIPO 01B-MH-20000",
+      "tipo": "TIPO 01B",
+      "desarrolloId": 4,
+      "sup": 95.4,
+      "precio": "$6,248,700.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 71,
+      "clave": "102",
+      "tipologia": "TIPO 02B-MH-20000",
+      "tipo": "TIPO 02B",
+      "desarrolloId": 4,
+      "sup": 48.9,
+      "precio": "$3,202,950.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 72,
+      "clave": "104",
+      "tipologia": "TIPO 04B-MH-20000",
+      "tipo": "TIPO 04B",
+      "desarrolloId": 4,
+      "sup": 51.3,
+      "precio": "$3,360,150.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 73,
+      "clave": "105",
+      "tipologia": "TIPO 05B-MH-20000",
+      "tipo": "TIPO 05B",
+      "desarrolloId": 4,
+      "sup": 62,
+      "precio": "$4,061,000.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 74,
+      "clave": "106",
+      "tipologia": "TIPO 06B-MH-20000",
+      "tipo": "TIPO 06B",
+      "desarrolloId": 4,
+      "sup": 88,
+      "precio": "$5,764,000.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 75,
+      "clave": "201",
+      "tipologia": "TIPO 01-MH-20000",
+      "tipo": "TIPO 01",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,257,074.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 76,
+      "clave": "202",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,712,355.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 77,
+      "clave": "203",
+      "tipologia": "TIPO 03B-MH-20000",
+      "tipo": "TIPO 03B",
+      "desarrolloId": 4,
+      "sup": 50.28,
+      "precio": "$3,326,273.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 78,
+      "clave": "204",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$2,897,589.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 79,
+      "clave": "205",
+      "tipologia": "TIPO 05-MH-20000",
+      "tipo": "TIPO 05",
+      "desarrolloId": 4,
+      "sup": 43.1,
+      "precio": "$2,851,281.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 80,
+      "clave": "206",
+      "tipologia": "TIPO 06-MH-20000",
+      "tipo": "TIPO 06",
+      "desarrolloId": 4,
+      "sup": 68.35,
+      "precio": "$4,521,694.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 81,
+      "clave": "301",
+      "tipologia": "TIPO 01-MH-20000",
+      "tipo": "TIPO 01",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,299,645.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 82,
+      "clave": "302",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,739,479.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 83,
+      "clave": "303",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,418,759.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 84,
+      "clave": "304",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$2,926,565.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 85,
+      "clave": "305",
+      "tipologia": "TIPO 05-MH-20000",
+      "tipo": "TIPO 05",
+      "desarrolloId": 4,
+      "sup": 43.1,
+      "precio": "$2,879,793.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 86,
+      "clave": "306",
+      "tipologia": "TIPO 06-MH-20000",
+      "tipo": "TIPO 06",
+      "desarrolloId": 4,
+      "sup": 68.35,
+      "precio": "$4,566,911.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 87,
+      "clave": "401",
+      "tipologia": "TIPO 01-MH-20000",
+      "tipo": "TIPO 01",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,342,641.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 88,
+      "clave": "402",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,766,873.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 89,
+      "clave": "403",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,442,947.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 90,
+      "clave": "404",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$2,955,831.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 91,
+      "clave": "405",
+      "tipologia": "TIPO 05-MH-20000",
+      "tipo": "TIPO 05",
+      "desarrolloId": 4,
+      "sup": 43.1,
+      "precio": "$2,908,591.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 92,
+      "clave": "406",
+      "tipologia": "TIPO 06-MH-20000",
+      "tipo": "TIPO 06",
+      "desarrolloId": 4,
+      "sup": 68.35,
+      "precio": "$4,612,580.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 93,
+      "clave": "501",
+      "tipologia": "TIPO 01-MH-20000",
+      "tipo": "TIPO 01",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,386,068.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 94,
+      "clave": "502",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,794,542.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 95,
+      "clave": "503",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,467,376.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 96,
+      "clave": "504",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$2,985,389.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 97,
+      "clave": "505",
+      "tipologia": "TIPO 05-MH-20000",
+      "tipo": "TIPO 05",
+      "desarrolloId": 4,
+      "sup": 43.1,
+      "precio": "$2,937,677.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 98,
+      "clave": "506",
+      "tipologia": "TIPO 06-MH-20000",
+      "tipo": "TIPO 06",
+      "desarrolloId": 4,
+      "sup": 68.35,
+      "precio": "$4,658,706.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 99,
+      "clave": "601",
+      "tipologia": "TIPO 01-MH-20000",
+      "tipo": "TIPO 01",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,429,929.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 100,
+      "clave": "602",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,822,487.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 101,
+      "clave": "603",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,492,050.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 102,
+      "clave": "604",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$3,015,243.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 103,
+      "clave": "605",
+      "tipologia": "TIPO 05-MH-20000",
+      "tipo": "TIPO 05",
+      "desarrolloId": 4,
+      "sup": 43.1,
+      "precio": "$2,967,054.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 104,
+      "clave": "606",
+      "tipologia": "TIPO 06-MH-20000",
+      "tipo": "TIPO 06",
+      "desarrolloId": 4,
+      "sup": 68.35,
+      "precio": "$4,705,293.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 105,
+      "clave": "701",
+      "tipologia": "TIPO 01-MH-20000",
+      "tipo": "TIPO 01",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,474,228.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 106,
+      "clave": "702",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,850,712.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 107,
+      "clave": "703",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,516,970.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 108,
+      "clave": "704",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$3,045,395.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 109,
+      "clave": "705",
+      "tipologia": "TIPO 07-MH-20000",
+      "tipo": "TIPO 07",
+      "desarrolloId": 4,
+      "sup": 50.2,
+      "precio": "$3,490,384.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 110,
+      "clave": "706",
+      "tipologia": "TIPO 06C-MH-20000",
+      "tipo": "TIPO 06C",
+      "desarrolloId": 4,
+      "sup": 59.1,
+      "precio": "$4,109,198.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 111,
+      "clave": "801",
+      "tipologia": "TIPO 01C-MH-20000",
+      "tipo": "TIPO 01C",
+      "desarrolloId": 4,
+      "sup": 64.35,
+      "precio": "$4,518,970.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 112,
+      "clave": "802",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,879,219.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 113,
+      "clave": "803",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,542,140.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 114,
+      "clave": "804",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$3,075,849.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 115,
+      "clave": "805",
+      "tipologia": "TIPO 08-MH-20000",
+      "tipo": "TIPO 08",
+      "desarrolloId": 4,
+      "sup": 73.1,
+      "precio": "$5,133,438.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 116,
+      "clave": "901",
+      "tipologia": "TIPO 09-MH-20000",
+      "tipo": "TIPO 09",
+      "desarrolloId": 4,
+      "sup": 58.2,
+      "precio": "$4,127,958.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 117,
+      "clave": "902",
+      "tipologia": "TIPO 02-MH-20000",
+      "tipo": "TIPO 02",
+      "desarrolloId": 4,
+      "sup": 41,
+      "precio": "$2,908,012.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 118,
+      "clave": "903",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,567,562.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 119,
+      "clave": "904",
+      "tipologia": "TIPO 04-MH-20000",
+      "tipo": "TIPO 04",
+      "desarrolloId": 4,
+      "sup": 43.8,
+      "precio": "$3,106,608.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 120,
+      "clave": "905",
+      "tipologia": "TIPO 10-MH-20000",
+      "tipo": "TIPO 10",
+      "desarrolloId": 4,
+      "sup": 72.15,
+      "precio": "$5,117,391.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 121,
+      "clave": "1001",
+      "tipologia": "TIPO 11-MH-20000",
+      "tipo": "TIPO 11",
+      "desarrolloId": 4,
+      "sup": 37.5,
+      "precio": "$2,686,364.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 122,
+      "clave": "1002",
+      "tipologia": "TIPO 12-MH-20000",
+      "tipo": "TIPO 12",
+      "desarrolloId": 4,
+      "sup": 53.5,
+      "precio": "$3,832,547.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 123,
+      "clave": "1003",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,593,237.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 124,
+      "clave": "1004",
+      "tipologia": "TIPO 13-MH-20000",
+      "tipo": "TIPO 13",
+      "desarrolloId": 4,
+      "sup": 50.55,
+      "precio": "$3,621,219.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 125,
+      "clave": "1005",
+      "tipologia": "TIPO 14-MH-20000",
+      "tipo": "TIPO 14",
+      "desarrolloId": 4,
+      "sup": 46.3,
+      "precio": "$3,316,765.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 126,
+      "clave": "1101",
+      "tipologia": "TIPO 15-MH-20000",
+      "tipo": "TIPO 15",
+      "desarrolloId": 4,
+      "sup": 84.65,
+      "precio": "$6,124,660.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 11,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 127,
+      "clave": "1102",
+      "tipologia": "TIPO 16-MH-20000",
+      "tipo": "TIPO 16",
+      "desarrolloId": 4,
+      "sup": 69.5,
+      "precio": "$5,028,516.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 11,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 128,
+      "clave": "1103",
+      "tipologia": "TIPO 03-MH-20000",
+      "tipo": "TIPO 03",
+      "desarrolloId": 4,
+      "sup": 36.2,
+      "precio": "$2,619,170.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 11,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 129,
+      "clave": "1201",
+      "tipologia": "TIPO 17-MH-20000",
+      "tipo": "TIPO 17",
+      "desarrolloId": 4,
+      "sup": 75.65,
+      "precio": "$5,528,220.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 12,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 130,
+      "clave": "1202",
+      "tipologia": "TIPO 18-MH-20000",
+      "tipo": "TIPO 18",
+      "desarrolloId": 4,
+      "sup": 55.9,
+      "precio": "$4,084,964.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 12,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 131,
+      "clave": "102",
+      "tipologia": ".-BRIO0000",
+      "tipo": ".",
+      "desarrolloId": 1,
+      "sup": 53.4,
+      "precio": "$4,512,300.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 132,
+      "clave": "201",
+      "tipologia": "D-BRIO0000",
+      "tipo": "D",
+      "desarrolloId": 1,
+      "sup": 40,
+      "precio": "$3,413,800.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 133,
+      "clave": "203",
+      "tipologia": "F-BRIO0000",
+      "tipo": "F",
+      "desarrolloId": 1,
+      "sup": 40,
+      "precio": "$3,413,800.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 134,
+      "clave": "205",
+      "tipologia": "B-BRIO0000",
+      "tipo": "B",
+      "desarrolloId": 1,
+      "sup": 65.2,
+      "precio": "$5,564,494.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 135,
+      "clave": "301",
+      "tipologia": "D-BRIO0000",
+      "tipo": "D",
+      "desarrolloId": 1,
+      "sup": 40,
+      "precio": "$3,447,938.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 136,
+      "clave": "303",
+      "tipologia": "F-BRIO0000",
+      "tipo": "F",
+      "desarrolloId": 1,
+      "sup": 40,
+      "precio": "$3,447,938.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 137,
+      "clave": "401",
+      "tipologia": "D-BRIO0000",
+      "tipo": "D",
+      "desarrolloId": 1,
+      "sup": 40,
+      "precio": "$3,482,417.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 138,
+      "clave": "406",
+      "tipologia": "A-BRIO0000",
+      "tipo": "A",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,126,665.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 139,
+      "clave": "504",
+      "tipologia": "C-BRIO0000",
+      "tipo": "C",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,167,931.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 140,
+      "clave": "506",
+      "tipologia": "A-BRIO0000",
+      "tipo": "A",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,167,931.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 141,
+      "clave": "604",
+      "tipologia": "C-BRIO0000",
+      "tipo": "C",
+      "desarrolloId": 1,
+      "sup": 43.3,
+      "precio": "$3,845,488.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 142,
+      "clave": "606",
+      "tipologia": "A-BRIO0000",
+      "tipo": "A",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,209,611.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 143,
+      "clave": "704",
+      "tipologia": "C-BRIO0000",
+      "tipo": "C",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,251,707.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 144,
+      "clave": "706",
+      "tipologia": "A-BRIO0000",
+      "tipo": "A",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,251,707.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 145,
+      "clave": "804",
+      "tipologia": "C-BRIO0000",
+      "tipo": "C",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,294,224.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 146,
+      "clave": "805",
+      "tipologia": "B-BRIO0000",
+      "tipo": "B",
+      "desarrolloId": 1,
+      "sup": 65.2,
+      "precio": "$5,906,823.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 147,
+      "clave": "806",
+      "tipologia": "A-BRIO0000",
+      "tipo": "A",
+      "desarrolloId": 1,
+      "sup": 47.4,
+      "precio": "$4,294,224.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 148,
+      "clave": "905",
+      "tipologia": "A.-BRIO0000",
+      "tipo": "A.",
+      "desarrolloId": 1,
+      "sup": 76.5,
+      "precio": "$6,999,856.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 149,
+      "clave": "1004",
+      "tipologia": "A..-BRIO0000",
+      "tipo": "A..",
+      "desarrolloId": 1,
+      "sup": 59.55,
+      "precio": "$5,503,397.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 150,
+      "clave": "1005",
+      "tipologia": "A…-BRIO0000",
+      "tipo": "A…",
+      "desarrolloId": 1,
+      "sup": 59.55,
+      "precio": "$5,503,397.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 151,
+      "clave": "101",
+      "tipologia": "GR101-TREEVIEW",
+      "tipo": "GR101",
+      "desarrolloId": 5,
+      "sup": 97.5,
+      "precio": "$10,276,200.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 152,
+      "clave": "106",
+      "tipologia": "GR106-TREEVIEW",
+      "tipo": "GR106",
+      "desarrolloId": 5,
+      "sup": 155.7,
+      "precio": "$10,276,200.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 153,
+      "clave": "G205",
+      "tipologia": "G-TREEVIEW",
+      "tipo": "G",
+      "desarrolloId": 5,
+      "sup": 65.6,
+      "precio": "$5,149,600.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 154,
+      "clave": "I207",
+      "tipologia": "I-TREEVIEW",
+      "tipo": "I",
+      "desarrolloId": 5,
+      "sup": 51.2,
+      "precio": "$4,019,200.00",
+      "estatus": "Bloqueado",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 155,
+      "clave": "A301",
+      "tipologia": "A-TREEVIEW",
+      "tipo": "A",
+      "desarrolloId": 5,
+      "sup": 81.9,
+      "precio": "$6,493,442.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 156,
+      "clave": "E403",
+      "tipologia": "E-TREEVIEW",
+      "tipo": "E",
+      "desarrolloId": 5,
+      "sup": 53.7,
+      "precio": "$4,300,181.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 157,
+      "clave": "F404",
+      "tipologia": "F-TREEVIEW",
+      "tipo": "F",
+      "desarrolloId": 5,
+      "sup": 55.35,
+      "precio": "$4,432,309.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 158,
+      "clave": "A501",
+      "tipologia": "A-TREEVIEW",
+      "tipo": "A",
+      "desarrolloId": 5,
+      "sup": 81.9,
+      "precio": "$6,623,960.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 159,
+      "clave": "C503",
+      "tipologia": "C-TREEVIEW",
+      "tipo": "C",
+      "desarrolloId": 5,
+      "sup": 82.4,
+      "precio": "$6,664,399.00",
+      "estatus": "Apartada",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 160,
+      "clave": "PH1",
+      "tipologia": "PH1-TREEVIEW",
+      "tipo": "PH1",
+      "desarrolloId": 5,
+      "sup": 151.9,
+      "precio": "$12,657,726.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 4,
+        "banos": 3,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 161,
+      "clave": "PH2",
+      "tipologia": "PH2-TREEVIEW",
+      "tipo": "PH2",
+      "desarrolloId": 5,
+      "sup": 150.1,
+      "precio": "$12,507,733.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 4,
+        "banos": 3,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 162,
+      "clave": "PH3",
+      "tipologia": "PH3-TREEVIEW",
+      "tipo": "PH3",
+      "desarrolloId": 5,
+      "sup": 153,
+      "precio": "$12,749,388.00",
+      "estatus": "Vendida",
+      "imagen": "",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 4,
+        "banos": 3,
+        "estacionamiento": 2
+      }
+    }
+  ],
   "personal": [
     {
       "id": 1,
       "nombre": "Daniel Gonzalez",
-      "categoria": "",
-      "departamento": "",
-      "telefono": "",
+      "categoria": "Director de Operaciones",
+      "departamento": "Tecnología",
+      "telefono": "33 33 33 33 33",
       "desarrollo": "",
-      "alta": "",
+      "alta": "2026-04-17",
       "estatus": "Activo",
-      "usuario": "daniel.gonzalez",
-      "password": "b90807cb334b0b43e143f7dd2b59abcb8c5fe337386733ffa3d8dc3bee0086af",
-      "accesoSistema": true
+      "usuario": "danielg",
+      "password": "danielg",
+      "accesoSistema": true,
+      "correo": "a@gmail.com"
     },
     {
       "id": 2,
       "nombre": "José Enrique Austria",
-      "categoria": "",
-      "departamento": "",
-      "telefono": "",
+      "categoria": "Administrador de Sistemas",
+      "departamento": "Tecnología",
+      "telefono": "33 33 33 33 33",
       "desarrollo": "",
-      "alta": "",
+      "alta": "2026-04-17",
       "estatus": "Activo",
-      "usuario": "jose.austria",
-      "password": "f8456b6f2aeed7076e074745e66734fbc1d308287e3c390fc4b6c23d135a4134",
-      "accesoSistema": true
+      "usuario": "enrique",
+      "password": "enrique",
+      "accesoSistema": false,
+      "correo": "a@gmail.com"
     },
     {
       "id": 3,
       "nombre": "Alejandro Vallejo",
       "categoria": "Administrador de Sistemas",
-      "departamento": "",
-      "telefono": "",
+      "departamento": "Tecnología",
+      "telefono": "33 15 18 51 67",
       "desarrollo": "",
-      "alta": "",
+      "alta": "2026-04-17",
       "estatus": "Activo",
       "usuario": "alejandro",
-      "password": "7d9e30ee33b8d84bdd92d5cca2dcf8c4d6b24c9898d2f4905d4eb39a1850f879",
-      "accesoSistema": true
+      "password": "kalel123456",
+      "accesoSistema": true,
+      "correo": "a@gmail.com"
     },
     {
       "id": 4,
       "nombre": "Haydee Gonzalez",
-      "categoria": "",
-      "departamento": "",
-      "telefono": "",
+      "categoria": "Asesor Junior",
+      "departamento": "Comercial",
+      "telefono": "333 100 87 12",
       "desarrollo": "",
-      "alta": "",
+      "alta": "2026-04-17",
       "estatus": "Activo",
-      "usuario": "haydee.gonzalez",
-      "password": "24d2f9c84d162db72045c57ac6503b93eab509ab2098cc2928b228229ac430ad",
-      "accesoSistema": true
+      "usuario": "haydee",
+      "password": "haydee",
+      "accesoSistema": true,
+      "correo": "a@gmail.com"
     },
     {
       "id": 5,
       "nombre": "Juan Miguel Garcia",
-      "categoria": "",
-      "departamento": "",
-      "telefono": "",
+      "categoria": "Director General",
+      "departamento": "Administración General",
+      "telefono": "33 33 33 33 33",
       "desarrollo": "",
-      "alta": "",
+      "alta": "2026-04-17",
       "estatus": "Activo",
-      "usuario": "juanmiguel.garcia",
-      "password": "e1889da4d0f39ca852c35f17d47f12525b650365e054141b041b6298b21e73c6",
+      "usuario": "miguel",
+      "password": "miguel",
+      "accesoSistema": true,
+      "correo": "a@gmail.com"
+    },
+    {
+      "id": 6,
+      "nombre": "Daniel Avila",
+      "categoria": "Asesor Senior",
+      "departamento": "Comercial",
+      "telefono": "33 33 33 33 33",
+      "correo": "a@gmail.com",
+      "alta": "2026-04-17",
+      "estatus": "Activo",
+      "usuario": "daniela",
+      "password": "daniela",
       "accesoSistema": true
     }
   ],
@@ -525,7 +3298,11 @@
       "estatus": "Activo",
       "id": 16,
       "asignados": 0,
-      "modulos": []
+      "modulos": [
+        "dashboard",
+        "desarrollos",
+        "inventario"
+      ]
     },
     {
       "departamento": "Tecnología",
@@ -545,7 +3322,8 @@
         "estatus",
         "planes",
         "descuentos-plan",
-        "asignacion-planes"
+        "asignacion-planes",
+        "backup"
       ]
     },
     {
@@ -682,6 +3460,42 @@
       "id": 32,
       "asignados": 0,
       "modulos": []
+    },
+    {
+      "id": 33,
+      "nombre": "Director General",
+      "descripcion": "Coordinación de procesos administrativos",
+      "departamento": "Administración General",
+      "modulos": [
+        "dashboard",
+        "catalogo-personal",
+        "desarrolladores",
+        "estatus",
+        "desarrollos",
+        "inventario",
+        "departamentos",
+        "categorias-personal"
+      ],
+      "estatus": "Activo",
+      "asignados": 0
+    },
+    {
+      "id": 34,
+      "nombre": "Director de Operaciones",
+      "descripcion": "Supervisa y optimiza las operaciones del sistema, asegurando el cumplimiento de procesos y objetivos.",
+      "departamento": "Tecnología",
+      "modulos": [
+        "dashboard",
+        "catalogo-personal",
+        "desarrolladores",
+        "estatus",
+        "desarrollos",
+        "inventario",
+        "departamentos",
+        "categorias-personal"
+      ],
+      "estatus": "Activo",
+      "asignados": 0
     }
   ],
   "departamentos": [
@@ -764,15 +3578,132 @@
       "00-00-00": 0,
       "5-10-85": 0,
       "25-00-75": 0,
-      "20-20-60": 0
+      "20-20-60": 6,
+      "25-25-50": 11,
+      "35-35-30": 13,
+      "90-10": 23
+    },
+    "3": {
+      "25-00-75": 5,
+      "35-35-30": 8,
+      "90-10": 17,
+      "25-5-70": 3
+    },
+    "4": {
+      "20-20-60": 3,
+      "25-25-50": 5,
+      "35-35-30": 9,
+      "90-10": 14
+    },
+    "5": {
+      "20-20-60": 1.5,
+      "25-25-50": 2.5,
+      "35-35-30": 5,
+      "90-10": 9
+    },
+    "16": {
+      "30-70": 3,
+      "25-25-50": 7,
+      "35-35-30": 10,
+      "90-10": 16.5
     }
   },
   "asignacionPlanes": {
+    "1": {
+      "flex1": "20-20-60",
+      "flex2": "25-25-50",
+      "flex3": "35-35-30",
+      "contado": "90-10"
+    },
+    "2": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
     "3": {
+      "flex1": "25-5-70",
+      "flex2": "25-00-75",
+      "flex3": "35-35-30",
+      "contado": "90-10"
+    },
+    "4": {
+      "flex1": "20-20-60",
+      "flex2": "25-25-50",
+      "flex3": "35-35-30",
+      "contado": "90-10"
+    },
+    "5": {
+      "flex1": "20-20-60",
+      "flex2": "25-25-50",
+      "flex3": "35-35-30",
+      "contado": "90-10"
+    },
+    "6": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "7": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "8": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "9": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "10": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "11": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "12": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "13": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "14": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "15": {
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "contado": ""
+    },
+    "16": {
       "flex1": "30-70",
-      "flex2": "30-20-50",
-      "flex3": "60-20-20",
-      "contado": "50-50"
+      "flex2": "25-25-50",
+      "flex3": "35-35-30",
+      "contado": "90-10"
     }
   }
 }

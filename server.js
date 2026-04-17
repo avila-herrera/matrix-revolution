@@ -171,13 +171,31 @@ const server = http.createServer(async (req, res) => {
         p.accesoSistema === true &&
         p.estatus === 'Activo'
       );
-      if (!user || user.password !== hashPassword(password)) {
+      if (!user || user.password !== password) {
         json(res, 401, { error: 'Credenciales incorrectas o acceso no habilitado' }); return;
       }
       // Responder sin el campo password
       const { password: _pw, ...safeUser } = user;
       json(res, 200, { success: true, usuario: safeUser });
     } catch (e) { json(res, 400, { error: e.message }); }
+    return;
+  }
+
+  /* ── GET /api/backup — descarga del database.json real ── */
+  if (url === '/api/backup' && method === 'GET') {
+    try {
+      const data = fs.readFileSync(DB_FILE);
+      const now  = new Date();
+      const pad  = n => String(n).padStart(2, '0');
+      const ts   = `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())}-${pad(now.getHours())}-${pad(now.getMinutes())}-${pad(now.getSeconds())}`;
+      const filename = `database-backup-${ts}.json`;
+      res.writeHead(200, {
+        'Content-Type':        'application/json',
+        'Content-Disposition': `attachment; filename="${filename}"`,
+        'Content-Length':      data.length,
+      });
+      res.end(data);
+    } catch (e) { res.writeHead(500); res.end('Error al leer database.json'); }
     return;
   }
 
