@@ -75,6 +75,23 @@
       "estado": "Jalisco",
       "telefono": "—",
       "correo": "—"
+    },
+    {
+      "id": 5,
+      "empresa": "Grupo Desarrollador SERUR",
+      "codigo": "DES-005-GDS",
+      "rfc": "XXXX-000000-00X",
+      "estatus": "Activo",
+      "representante": "—",
+      "telefono": "—",
+      "correo": "—",
+      "calle": "—",
+      "numero": "—",
+      "colonia": "—",
+      "cp": "—",
+      "municipio": "—",
+      "ciudad": "—",
+      "estado": "—"
     }
   ],
   "desarrollos": [
@@ -84,13 +101,17 @@
       "nombre": "Brio Residences",
       "ubicacion": "Zapopan, Jalisco",
       "precioMin": "$2,800,000",
-      "precioMax": "$4,500,000",
-      "entrega": "—",
+      "precioMax": "—",
+      "entrega": "36",
       "estatus": "Etapa cero (Friends & Family)",
       "badgeClass": "etapa-cero",
       "imagen": "02 IMAGENES DE DESARROLLOS/01_BRIO_RESIDENCES.png",
       "unidades": 48,
-      "activoSistema": "Inactivo"
+      "activoSistema": "Activo",
+      "mesesEntregaInicial": 36,
+      "cronometroActivo": false,
+      "fechaEntregaObjetivo": "2029-04-18T00:46:12.985Z",
+      "mesesRestantesCongelados": 36
     },
     {
       "id": 2,
@@ -136,7 +157,7 @@
       "badgeClass": "pv-const",
       "imagen": "02 IMAGENES DE DESARROLLOS/06_MH_LIVING_II.png",
       "unidades": 24,
-      "activoSistema": "Inactivo",
+      "activoSistema": "Activo",
       "mesesEntregaInicial": 36,
       "cronometroActivo": true,
       "fechaEntregaObjetivo": "2029-03-24T01:14:16.226Z",
@@ -146,15 +167,19 @@
       "id": 5,
       "desarrolladorId": 1,
       "nombre": "Treeview",
-      "ubicacion": "Chapala, Jalisco",
+      "ubicacion": "C. Garibaldi 2655, Circunvalación Vallarta, 44680 Guadalajara, Jal.",
       "precioMin": "$2,200,000",
-      "precioMax": "$3,900,000",
-      "entrega": "—",
-      "estatus": "Preventa const-estructura",
-      "badgeClass": "preventa",
+      "precioMax": "—",
+      "entrega": "7",
+      "estatus": "Preventa const-ingenierías",
+      "badgeClass": "pv-const",
       "imagen": "02 IMAGENES DE DESARROLLOS/08_TREEVIEW.png",
       "unidades": 60,
-      "activoSistema": "Inactivo"
+      "activoSistema": "Activo",
+      "mesesEntregaInicial": 7,
+      "cronometroActivo": true,
+      "fechaEntregaObjetivo": "2026-11-17T20:55:20.078Z",
+      "mesesRestantesCongelados": null
     },
     {
       "id": 6,
@@ -311,6 +336,22 @@
       "imagen": "02 IMAGENES DE DESARROLLOS/05a_MH_LIVING_I..png",
       "estatus": "Preventa const-acabados",
       "badgeClass": "pv-const",
+      "activoSistema": "Activo"
+    },
+    {
+      "id": 17,
+      "nombre": "Veneciana Residences",
+      "ubicacion": "Zapopan, Jalisco",
+      "desarrolladorId": 5,
+      "precioMax": "—",
+      "mesesEntregaInicial": 0,
+      "cronometroActivo": false,
+      "fechaEntregaObjetivo": null,
+      "mesesRestantesCongelados": null,
+      "entrega": "—",
+      "imagen": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
+      "estatus": "",
+      "badgeClass": "preventa",
       "activoSistema": "Activo"
     }
   ],
@@ -2528,13 +2569,13 @@
     {
       "id": 131,
       "clave": "102",
-      "tipologia": ".-BRIO0000",
-      "tipo": ".",
+      "tipologia": "0-BRIO0000",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 53.4,
-      "precio": "$4,512,300.00",
+      "precio": "4512300.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/0-BRIO0000.webp",
       "espacios": {
         "nivel": 1,
         "recamaras": 1,
@@ -2546,12 +2587,12 @@
       "id": 132,
       "clave": "201",
       "tipologia": "D-BRIO0000",
-      "tipo": "D",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
-      "precio": "$3,413,800.00",
+      "precio": "3413800.00",
       "estatus": "Apartada",
-      "imagen": "",
+      "imagen": "Brio Residences/D-BRIO0000.webp",
       "espacios": {
         "nivel": 2,
         "recamaras": 1,
@@ -2563,12 +2604,12 @@
       "id": 133,
       "clave": "203",
       "tipologia": "F-BRIO0000",
-      "tipo": "F",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
-      "precio": "$3,413,800.00",
+      "precio": "3413800.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/F-BRIO0000.webp",
       "espacios": {
         "nivel": 2,
         "recamaras": 1,
@@ -2580,12 +2621,12 @@
       "id": 134,
       "clave": "205",
       "tipologia": "B-BRIO0000",
-      "tipo": "B",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 65.2,
-      "precio": "$5,564,494.00",
+      "precio": "5564494.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/B-BRIO0000.webp",
       "espacios": {
         "nivel": 2,
         "recamaras": 2,
@@ -2597,12 +2638,12 @@
       "id": 135,
       "clave": "301",
       "tipologia": "D-BRIO0000",
-      "tipo": "D",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
-      "precio": "$3,447,938.00",
+      "precio": "3447938.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/D-BRIO0000.webp",
       "espacios": {
         "nivel": 3,
         "recamaras": 1,
@@ -2614,12 +2655,12 @@
       "id": 136,
       "clave": "303",
       "tipologia": "F-BRIO0000",
-      "tipo": "F",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
-      "precio": "$3,447,938.00",
+      "precio": "3447938.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/F-BRIO0000.webp",
       "espacios": {
         "nivel": 3,
         "recamaras": 1,
@@ -2631,12 +2672,12 @@
       "id": 137,
       "clave": "401",
       "tipologia": "D-BRIO0000",
-      "tipo": "D",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
-      "precio": "$3,482,417.00",
+      "precio": "3482417.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/D-BRIO0000.webp",
       "espacios": {
         "nivel": 4,
         "recamaras": 1,
@@ -2648,12 +2689,12 @@
       "id": 138,
       "clave": "406",
       "tipologia": "A-BRIO0000",
-      "tipo": "A",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,126,665.00",
+      "precio": "4126665.00",
       "estatus": "Vendida",
-      "imagen": "",
+      "imagen": "Brio Residences/A-BRIO0000.webp",
       "espacios": {
         "nivel": 4,
         "recamaras": 1,
@@ -2665,12 +2706,12 @@
       "id": 139,
       "clave": "504",
       "tipologia": "C-BRIO0000",
-      "tipo": "C",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,167,931.00",
+      "precio": "4167931.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/C-BRIO0000.webp",
       "espacios": {
         "nivel": 5,
         "recamaras": 1,
@@ -2682,12 +2723,12 @@
       "id": 140,
       "clave": "506",
       "tipologia": "A-BRIO0000",
-      "tipo": "A",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,167,931.00",
+      "precio": "4167931.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A-BRIO0000.webp",
       "espacios": {
         "nivel": 5,
         "recamaras": 1,
@@ -2699,12 +2740,12 @@
       "id": 141,
       "clave": "604",
       "tipologia": "C-BRIO0000",
-      "tipo": "C",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 43.3,
-      "precio": "$3,845,488.00",
+      "precio": "3845488.00",
       "estatus": "Vendida",
-      "imagen": "",
+      "imagen": "Brio Residences/C-BRIO0000.webp",
       "espacios": {
         "nivel": 6,
         "recamaras": 1,
@@ -2716,12 +2757,12 @@
       "id": 142,
       "clave": "606",
       "tipologia": "A-BRIO0000",
-      "tipo": "A",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,209,611.00",
+      "precio": "4209611.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A-BRIO0000.webp",
       "espacios": {
         "nivel": 6,
         "recamaras": 1,
@@ -2733,12 +2774,12 @@
       "id": 143,
       "clave": "704",
       "tipologia": "C-BRIO0000",
-      "tipo": "C",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,251,707.00",
+      "precio": "4251707.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/C-BRIO0000.webp",
       "espacios": {
         "nivel": 7,
         "recamaras": 1,
@@ -2750,12 +2791,12 @@
       "id": 144,
       "clave": "706",
       "tipologia": "A-BRIO0000",
-      "tipo": "A",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,251,707.00",
+      "precio": "4251707.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A-BRIO0000.webp",
       "espacios": {
         "nivel": 7,
         "recamaras": 1,
@@ -2767,12 +2808,12 @@
       "id": 145,
       "clave": "804",
       "tipologia": "C-BRIO0000",
-      "tipo": "C",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,294,224.00",
+      "precio": "4294224.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/C-BRIO0000.webp",
       "espacios": {
         "nivel": 8,
         "recamaras": 1,
@@ -2784,12 +2825,12 @@
       "id": 146,
       "clave": "805",
       "tipologia": "B-BRIO0000",
-      "tipo": "B",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 65.2,
-      "precio": "$5,906,823.00",
+      "precio": "5906823.00",
       "estatus": "Vendida",
-      "imagen": "",
+      "imagen": "Brio Residences/B-BRIO0000.webp",
       "espacios": {
         "nivel": 8,
         "recamaras": 2,
@@ -2801,12 +2842,12 @@
       "id": 147,
       "clave": "806",
       "tipologia": "A-BRIO0000",
-      "tipo": "A",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
-      "precio": "$4,294,224.00",
+      "precio": "4294224.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A-BRIO0000.webp",
       "espacios": {
         "nivel": 8,
         "recamaras": 1,
@@ -2818,12 +2859,12 @@
       "id": 148,
       "clave": "905",
       "tipologia": "A.-BRIO0000",
-      "tipo": "A.",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 76.5,
-      "precio": "$6,999,856.00",
+      "precio": "6999856.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A.-BRIO0000.webp",
       "espacios": {
         "nivel": 9,
         "recamaras": 2,
@@ -2835,12 +2876,12 @@
       "id": 149,
       "clave": "1004",
       "tipologia": "A..-BRIO0000",
-      "tipo": "A..",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 59.55,
-      "precio": "$5,503,397.00",
+      "precio": "5503397.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A..-BRIO0000.webp",
       "espacios": {
         "nivel": 10,
         "recamaras": 1,
@@ -2852,12 +2893,12 @@
       "id": 150,
       "clave": "1005",
       "tipologia": "A…-BRIO0000",
-      "tipo": "A…",
+      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 59.55,
-      "precio": "$5,503,397.00",
+      "precio": "5503397.00",
       "estatus": "Disponible",
-      "imagen": "",
+      "imagen": "Brio Residences/A…-BRIO0000.webp",
       "espacios": {
         "nivel": 10,
         "recamaras": 1,
@@ -3005,12 +3046,12 @@
       "id": 159,
       "clave": "C503",
       "tipologia": "C-TREEVIEW",
-      "tipo": "C",
+      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 82.4,
-      "precio": "$6,664,399.00",
+      "precio": "6664399.00",
       "estatus": "Apartada",
-      "imagen": "",
+      "imagen": "03 IMAGENES DE UNIDADES/MH LIVING_D301_PLANTA CAMBIOS_20 ENE 2025.jpeg",
       "espacios": {
         "nivel": 5,
         "recamaras": 2,
@@ -3067,6 +3108,346 @@
         "recamaras": 4,
         "banos": 3,
         "estacionamiento": 2
+      }
+    },
+    {
+      "id": 163,
+      "clave": "PB3",
+      "tipologia": "PB3-VEN-RESI",
+      "tipo": "PB3",
+      "desarrolloId": 17,
+      "sup": 82.78,
+      "precio": "$6,760,367.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 164,
+      "clave": "PB6",
+      "tipologia": "PB6-VEN-RESI",
+      "tipo": "PB6",
+      "desarrolloId": 17,
+      "sup": 100.09,
+      "precio": "$6,626,842.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 165,
+      "clave": "102",
+      "tipologia": "102-VEN-RESI",
+      "tipo": "102",
+      "desarrolloId": 17,
+      "sup": 76.26,
+      "precio": "$6,227,900.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 166,
+      "clave": "104",
+      "tipologia": "104-VEN-RESI",
+      "tipo": "104",
+      "desarrolloId": 17,
+      "sup": 62.21,
+      "precio": "$5,080,483.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 167,
+      "clave": "105",
+      "tipologia": "105-VEN-RESI",
+      "tipo": "105",
+      "desarrolloId": 17,
+      "sup": 75.84,
+      "precio": "$6,193,600.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 168,
+      "clave": "106",
+      "tipologia": "106-VEN-RESI",
+      "tipo": "106",
+      "desarrolloId": 17,
+      "sup": 62.2,
+      "precio": "$5,079,667.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 169,
+      "clave": "201",
+      "tipologia": "201-VEN-RESI",
+      "tipo": "201",
+      "desarrolloId": 17,
+      "sup": 70.43,
+      "precio": "$5,751,783.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 170,
+      "clave": "204",
+      "tipologia": "204-VEN-RESI",
+      "tipo": "204",
+      "desarrolloId": 17,
+      "sup": 62.21,
+      "precio": "$5,080,483.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 171,
+      "clave": "205",
+      "tipologia": "205-VEN-RESI",
+      "tipo": "205",
+      "desarrolloId": 17,
+      "sup": 75.84,
+      "precio": "$6,193,600.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 172,
+      "clave": "301",
+      "tipologia": "301-VEN-RESI",
+      "tipo": "301",
+      "desarrolloId": 17,
+      "sup": 70.43,
+      "precio": "$5,751,783.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 173,
+      "clave": "304",
+      "tipologia": "304-VEN-RESI",
+      "tipo": "304",
+      "desarrolloId": 17,
+      "sup": 62.19,
+      "precio": "$4,975,542.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 174,
+      "clave": "305",
+      "tipologia": "305-VEN-RESI",
+      "tipo": "305",
+      "desarrolloId": 17,
+      "sup": 75.82,
+      "precio": "$5,811,808.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 175,
+      "clave": "403",
+      "tipologia": "403-VEN-RESI",
+      "tipo": "403",
+      "desarrolloId": 17,
+      "sup": 70.45,
+      "precio": "$5,753,417.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 176,
+      "clave": "406",
+      "tipologia": "406-VEN-RESI",
+      "tipo": "406",
+      "desarrolloId": 17,
+      "sup": 59.65,
+      "precio": "$4,797,100.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 177,
+      "clave": "501",
+      "tipologia": "501-VEN-RESI",
+      "tipo": "501",
+      "desarrolloId": 17,
+      "sup": 70.43,
+      "precio": "$5,751,783.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 178,
+      "clave": "504",
+      "tipologia": "504-VEN-RESI",
+      "tipo": "504",
+      "desarrolloId": 17,
+      "sup": 94.83,
+      "precio": "$6,599,075.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 179,
+      "clave": "505",
+      "tipologia": "505-VEN-RESI",
+      "tipo": "505",
+      "desarrolloId": 17,
+      "sup": 96.23,
+      "precio": "$6,705,650.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 180,
+      "clave": "601",
+      "tipologia": "601-VEN-RESI",
+      "tipo": "601",
+      "desarrolloId": 17,
+      "sup": 70.43,
+      "precio": "$5,751,783.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 181,
+      "clave": "602",
+      "tipologia": "602-VEN-RESI",
+      "tipo": "602",
+      "desarrolloId": 17,
+      "sup": 76.23,
+      "precio": "$6,225,450.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 182,
+      "clave": "603",
+      "tipologia": "603-VEN-RESI",
+      "tipo": "603",
+      "desarrolloId": 17,
+      "sup": 70.45,
+      "precio": "$5,753,417.00",
+      "estatus": "Disponible",
+      "imagen": "",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 0,
+        "banos": 0,
+        "estacionamiento": 0
       }
     }
   ],
@@ -3152,6 +3533,19 @@
       "estatus": "Activo",
       "usuario": "daniela",
       "password": "daniela",
+      "accesoSistema": true
+    },
+    {
+      "id": 7,
+      "nombre": "Gabriel Araiza",
+      "categoria": "Desarrollador",
+      "departamento": "Tecnología",
+      "telefono": "3346804057",
+      "correo": "hola@lati.com.mx",
+      "alta": "2026-04-17",
+      "estatus": "Activo",
+      "usuario": "Gabo",
+      "password": "Gabo123",
       "accesoSistema": true
     }
   ],
@@ -3333,7 +3727,20 @@
       "estatus": "Activo",
       "id": 18,
       "asignados": 0,
-      "modulos": []
+      "modulos": [
+        "dashboard",
+        "catalogo-personal",
+        "desarrolladores",
+        "estatus",
+        "desarrollos",
+        "planes",
+        "inventario",
+        "descuentos-plan",
+        "departamentos",
+        "asignacion-planes",
+        "categorias-personal",
+        "backup"
+      ]
     },
     {
       "departamento": "Tecnología",
@@ -3572,7 +3979,161 @@
       "estatus": "Activo"
     }
   ],
-  "planesPago": [],
+  "planesPago": [
+    {
+      "id": 0,
+      "nombre": "PLAN 0",
+      "clave": "00-00-00",
+      "enganche": 0,
+      "financiamiento": 0,
+      "entrega": 100,
+      "activo": true
+    },
+    {
+      "id": 1,
+      "nombre": "PLAN 1",
+      "clave": "5-10-85",
+      "enganche": 5,
+      "financiamiento": 10,
+      "entrega": 85,
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "PLAN 2",
+      "clave": "25-00-75",
+      "enganche": 25,
+      "financiamiento": 0,
+      "entrega": 75,
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "PLAN 3",
+      "clave": "20-20-60",
+      "enganche": 20,
+      "financiamiento": 20,
+      "entrega": 60,
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "PLAN 4",
+      "clave": "30-70",
+      "enganche": 30,
+      "financiamiento": 0,
+      "entrega": 70,
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "PLAN 5",
+      "clave": "25-25-50",
+      "enganche": 25,
+      "financiamiento": 25,
+      "entrega": 50,
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "PLAN 6",
+      "clave": "30-20-50",
+      "enganche": 30,
+      "financiamiento": 20,
+      "entrega": 50,
+      "activo": true
+    },
+    {
+      "id": 7,
+      "nombre": "PLAN 7",
+      "clave": "50-50",
+      "enganche": 50,
+      "financiamiento": 0,
+      "entrega": 50,
+      "activo": true
+    },
+    {
+      "id": 8,
+      "nombre": "PLAN 8",
+      "clave": "35-35-30",
+      "enganche": 35,
+      "financiamiento": 35,
+      "entrega": 30,
+      "activo": true
+    },
+    {
+      "id": 9,
+      "nombre": "PLAN 9",
+      "clave": "60-20-20",
+      "enganche": 60,
+      "financiamiento": 20,
+      "entrega": 20,
+      "activo": true
+    },
+    {
+      "id": 10,
+      "nombre": "PLAN 10",
+      "clave": "80-20",
+      "enganche": 80,
+      "financiamiento": 0,
+      "entrega": 20,
+      "activo": true
+    },
+    {
+      "id": 11,
+      "nombre": "PLAN 11",
+      "clave": "90-10",
+      "enganche": 90,
+      "financiamiento": 0,
+      "entrega": 10,
+      "activo": true
+    },
+    {
+      "id": 12,
+      "nombre": "PLAN 12",
+      "clave": "10-5-85",
+      "enganche": 10,
+      "financiamiento": 5,
+      "entrega": 85,
+      "activo": true
+    },
+    {
+      "id": 13,
+      "nombre": "PLAN 13",
+      "clave": "25-5-70",
+      "enganche": 25,
+      "financiamiento": 5,
+      "entrega": 70,
+      "activo": true
+    },
+    {
+      "id": 21,
+      "nombre": "PLAN 21",
+      "clave": "14-8-8-70",
+      "enganche": 14,
+      "financiamiento": 16,
+      "entrega": 70,
+      "activo": true
+    },
+    {
+      "id": 22,
+      "nombre": "PLAN 22",
+      "clave": "100",
+      "enganche": 100,
+      "financiamiento": 0,
+      "entrega": 0,
+      "activo": true
+    },
+    {
+      "id": 23,
+      "nombre": "PLAN 14",
+      "clave": "40-0-60",
+      "enganche": 40,
+      "financiamiento": 0,
+      "entrega": 60,
+      "activo": true
+    }
+  ],
   "descuentosMatriz": {
     "1": {
       "00-00-00": 0,
@@ -3606,6 +4167,11 @@
       "25-25-50": 7,
       "35-35-30": 10,
       "90-10": 16.5
+    },
+    "17": {
+      "30-20-50": 5,
+      "90-10": 10,
+      "40-0-60": 1e-11
     }
   },
   "asignacionPlanes": {
@@ -3704,6 +4270,12 @@
       "flex2": "25-25-50",
       "flex3": "35-35-30",
       "contado": "90-10"
+    },
+    "17": {
+      "flex1": "40-0-60",
+      "flex2": "30-20-50",
+      "flex3": "90-10",
+      "contado": ""
     }
   }
 }
