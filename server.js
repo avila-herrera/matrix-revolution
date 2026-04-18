@@ -158,6 +158,19 @@ const server = http.createServer(async (req, res) => {
     serveFile(res, path.join(__dirname, decoded), mime); return;
   }
 
+  /* ── Imágenes de unidades en subcarpetas de desarrollo (raíz) ── */
+  /* Rutas como: /BRIO RESIDENCES/archivo.png  o  /BRIO%20RESIDENCES/archivo.png */
+  {
+    const decoded = decodeURIComponent(url.slice(1)); // quitar /
+    const ext = path.extname(decoded).toLowerCase();
+    const imgExts = ['.jpg','.jpeg','.png','.webp','.gif'];
+    if (imgExts.includes(ext) && decoded.includes('/') && !decoded.startsWith('api')) {
+      const mime = {'.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png',
+                    '.webp':'image/webp','.gif':'image/gif'}[ext] || 'application/octet-stream';
+      serveFile(res, path.join(__dirname, decoded), mime); return;
+    }
+  }
+
   /* ── POST /api/login ── */
   if (url === '/api/login' && method === 'POST') {
     try {
