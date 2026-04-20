@@ -3113,8 +3113,8 @@
     {
       "id": 163,
       "clave": "PB3",
-      "tipologia": "PB3-VEN-RESI",
-      "tipo": "PB3",
+      "tipologia": "CAPRI-VEN-RESI",
+      "tipo": "CAPRI",
       "desarrolloId": 17,
       "sup": 82.78,
       "precio": "$6,760,367.00",
@@ -3122,16 +3122,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 1,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
       }
     },
     {
       "id": 164,
       "clave": "PB6",
-      "tipologia": "PB6-VEN-RESI",
-      "tipo": "PB6",
+      "tipologia": "VERONA-VEN-RESI",
+      "tipo": "VERONA",
       "desarrolloId": 17,
       "sup": 100.09,
       "precio": "$6,626,842.00",
@@ -3139,16 +3139,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 1,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 165,
       "clave": "102",
-      "tipologia": "102-VEN-RESI",
-      "tipo": "102",
+      "tipologia": "PORTOFINO-VEN-RESI",
+      "tipo": "PORTOFINO",
       "desarrolloId": 17,
       "sup": 76.26,
       "precio": "$6,227,900.00",
@@ -3156,16 +3156,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 2,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
       }
     },
     {
       "id": 166,
       "clave": "104",
-      "tipologia": "104-VEN-RESI",
-      "tipo": "104",
+      "tipologia": "AMALFI-VEN-RESI",
+      "tipo": "AMALFI",
       "desarrolloId": 17,
       "sup": 62.21,
       "precio": "$5,080,483.00",
@@ -3173,16 +3173,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 2,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 167,
       "clave": "105",
-      "tipologia": "105-VEN-RESI",
-      "tipo": "105",
+      "tipologia": "FLORENCIA-VEN-RESI",
+      "tipo": "FLORENCIA",
       "desarrolloId": 17,
       "sup": 75.84,
       "precio": "$6,193,600.00",
@@ -3190,16 +3190,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 2,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
       }
     },
     {
       "id": 168,
       "clave": "106",
-      "tipologia": "106-VEN-RESI",
-      "tipo": "106",
+      "tipologia": "VERONA-VEN-RESI",
+      "tipo": "VERONA",
       "desarrolloId": 17,
       "sup": 62.2,
       "precio": "$5,079,667.00",
@@ -3207,16 +3207,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 2,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 169,
       "clave": "201",
-      "tipologia": "201-VEN-RESI",
-      "tipo": "201",
+      "tipologia": "GENOVA-VEN-RESI",
+      "tipo": "GENOVA",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "$5,751,783.00",
@@ -3224,16 +3224,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 3,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 170,
       "clave": "204",
-      "tipologia": "204-VEN-RESI",
-      "tipo": "204",
+      "tipologia": "AMALFI-VEN-RESI",
+      "tipo": "AMALFI",
       "desarrolloId": 17,
       "sup": 62.21,
       "precio": "$5,080,483.00",
@@ -3241,16 +3241,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 3,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 171,
       "clave": "205",
-      "tipologia": "205-VEN-RESI",
-      "tipo": "205",
+      "tipologia": "FLORENCIA-VEN-RESI",
+      "tipo": "FLORENCIA",
       "desarrolloId": 17,
       "sup": 75.84,
       "precio": "$6,193,600.00",
@@ -3258,16 +3258,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 3,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
       }
     },
     {
       "id": 172,
       "clave": "301",
-      "tipologia": "301-VEN-RESI",
-      "tipo": "301",
+      "tipologia": "GENOVA-VEN-RESI",
+      "tipo": "GENOVA",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "$5,751,783.00",
@@ -3275,16 +3275,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 4,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 173,
       "clave": "304",
-      "tipologia": "304-VEN-RESI",
-      "tipo": "304",
+      "tipologia": "AMALFI-VEN-RESI",
+      "tipo": "AMALFI",
       "desarrolloId": 17,
       "sup": 62.19,
       "precio": "$4,975,542.00",
@@ -3292,16 +3292,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 4,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 174,
       "clave": "305",
-      "tipologia": "305-VEN-RESI",
-      "tipo": "305",
+      "tipologia": "RAVENNA-VEN-RESI",
+      "tipo": "RAVENNA",
       "desarrolloId": 17,
       "sup": 75.82,
       "precio": "$5,811,808.00",
@@ -3309,16 +3309,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 4,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
       }
     },
     {
       "id": 175,
       "clave": "403",
-      "tipologia": "403-VEN-RESI",
-      "tipo": "403",
+      "tipologia": "NAPOLES-VEN-RESI",
+      "tipo": "NAPOLES",
       "desarrolloId": 17,
       "sup": 70.45,
       "precio": "$5,753,417.00",
@@ -3326,16 +3326,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 5,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 176,
       "clave": "406",
-      "tipologia": "406-VEN-RESI",
-      "tipo": "406",
+      "tipologia": "VERONA-VEN-RESI",
+      "tipo": "VERONA",
       "desarrolloId": 17,
       "sup": 59.65,
       "precio": "$4,797,100.00",
@@ -3343,16 +3343,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 5,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 177,
       "clave": "501",
-      "tipologia": "501-VEN-RESI",
-      "tipo": "501",
+      "tipologia": "GENOVA-VEN-RESI",
+      "tipo": "GENOVA",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "$5,751,783.00",
@@ -3360,16 +3360,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 6,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 178,
       "clave": "504",
-      "tipologia": "504-VEN-RESI",
-      "tipo": "504",
+      "tipologia": "VIENA-VEN-RESI",
+      "tipo": "VIENA",
       "desarrolloId": 17,
       "sup": 94.83,
       "precio": "$6,599,075.00",
@@ -3377,16 +3377,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 6,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 2,
+        "estacionamiento": 1
       }
     },
     {
       "id": 179,
       "clave": "505",
-      "tipologia": "505-VEN-RESI",
-      "tipo": "505",
+      "tipologia": "VIENA-VEN-RESI",
+      "tipo": "VIENA",
       "desarrolloId": 17,
       "sup": 96.23,
       "precio": "$6,705,650.00",
@@ -3394,16 +3394,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 6,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 2,
+        "estacionamiento": 1
       }
     },
     {
       "id": 180,
       "clave": "601",
-      "tipologia": "601-VEN-RESI",
-      "tipo": "601",
+      "tipologia": "GENOVA-VEN-RESI",
+      "tipo": "GENOVA",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "$5,751,783.00",
@@ -3411,16 +3411,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 7,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     },
     {
       "id": 181,
       "clave": "602",
-      "tipologia": "602-VEN-RESI",
-      "tipo": "602",
+      "tipologia": "PORTOFINO-VEN-RESI",
+      "tipo": "PORTOFINO",
       "desarrolloId": 17,
       "sup": 76.23,
       "precio": "$6,225,450.00",
@@ -3428,16 +3428,16 @@
       "imagen": "",
       "espacios": {
         "nivel": 7,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
       }
     },
     {
       "id": 182,
       "clave": "603",
-      "tipologia": "603-VEN-RESI",
-      "tipo": "603",
+      "tipologia": "NAPOLES-VEN-RESI",
+      "tipo": "NAPOLES",
       "desarrolloId": 17,
       "sup": 70.45,
       "precio": "$5,753,417.00",
@@ -3445,9 +3445,9 @@
       "imagen": "",
       "espacios": {
         "nivel": 7,
-        "recamaras": 0,
-        "banos": 0,
-        "estacionamiento": 0
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
       }
     }
   ],
@@ -3503,8 +3503,8 @@
       "desarrollo": "",
       "alta": "2026-04-17",
       "estatus": "Activo",
-      "usuario": "haydee",
-      "password": "haydee",
+      "usuario": "Haydee",
+      "password": "Ha123",
       "accesoSistema": true,
       "correo": "a@gmail.com"
     },
@@ -3546,6 +3546,45 @@
       "estatus": "Activo",
       "usuario": "Gabo",
       "password": "Gabo123",
+      "accesoSistema": true
+    },
+    {
+      "id": 8,
+      "nombre": "Crystal Valdivia",
+      "categoria": "Asesor Junior",
+      "departamento": "Comercial",
+      "telefono": "3311175834",
+      "correo": "crystalvaldivia.avilaherrera@gmail.com",
+      "alta": "2026-04-20",
+      "estatus": "Activo",
+      "usuario": "Crystal",
+      "password": "Cr123",
+      "accesoSistema": true
+    },
+    {
+      "id": 9,
+      "nombre": "Lourdes Avila",
+      "categoria": "Asesor Junior",
+      "departamento": "Comercial",
+      "telefono": "33156421512",
+      "correo": "lourdesavilaherrera@gmail.com",
+      "alta": "2026-04-20",
+      "estatus": "Activo",
+      "usuario": "Lourdes",
+      "password": "Lo123",
+      "accesoSistema": true
+    },
+    {
+      "id": 10,
+      "nombre": "prueba",
+      "categoria": "Administrador de Sistemas",
+      "departamento": "Tecnología",
+      "telefono": "—",
+      "correo": "—",
+      "alta": "2026-04-20",
+      "estatus": "Activo",
+      "usuario": "prueba",
+      "password": "prueba",
       "accesoSistema": true
     }
   ],
