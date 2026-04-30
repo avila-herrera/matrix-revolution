@@ -403,11 +403,9 @@
     {
       "id": 1,
       "clave": "D1",
-      "tipologia": "D1-MH-1-COM",
-      "tipo": "D1",
       "desarrolloId": 16,
       "sup": 29.55,
-      "precio": "$1,876,425",
+      "precio": "1876425.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -415,16 +413,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D1-MH-1-COM",
+      "tipologia": "D1"
     },
     {
       "id": 2,
       "clave": "D2",
-      "tipologia": "D2-MH-1-COM",
-      "tipo": "D2",
       "desarrolloId": 16,
       "sup": 29,
-      "precio": "$1,841,500",
+      "precio": "1841500.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -432,16 +430,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D2-MH-1-COM",
+      "tipologia": "D2"
     },
     {
       "id": 3,
       "clave": "D3",
-      "tipologia": "D3-MH-1-COM",
-      "tipo": "D3",
       "desarrolloId": 16,
       "sup": 23.37,
-      "precio": "$1,483,995",
+      "precio": "1483995.00",
       "estatus": "Apartada",
       "imagen": "",
       "espacios": {
@@ -449,16 +447,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D3-MH-1-COM",
+      "tipologia": "D3"
     },
     {
       "id": 4,
       "clave": "D4",
-      "tipologia": "D4-MH-1-COM",
-      "tipo": "D4",
       "desarrolloId": 16,
       "sup": 23.22,
-      "precio": "$1,474,470",
+      "precio": "1474470.00",
       "estatus": "Apartada",
       "imagen": "",
       "espacios": {
@@ -466,16 +464,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D4-MH-1-COM",
+      "tipologia": "D4"
     },
     {
       "id": 5,
       "clave": "D5",
-      "tipologia": "D5-MH-1-COM",
-      "tipo": "D5",
       "desarrolloId": 16,
       "sup": 26.83,
-      "precio": "$1,703,705",
+      "precio": "1703705.00",
       "estatus": "Apartada",
       "imagen": "",
       "espacios": {
@@ -483,16 +481,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D5-MH-1-COM",
+      "tipologia": "D5"
     },
     {
       "id": 6,
       "clave": "D6",
-      "tipologia": "D6-MH-1-COM",
-      "tipo": "D6",
       "desarrolloId": 16,
       "sup": 29.73,
-      "precio": "$1,887,855",
+      "precio": "1887855.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -500,16 +498,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D6-MH-1-COM",
+      "tipologia": "D6"
     },
     {
       "id": 7,
       "clave": "D7",
-      "tipologia": "D7-MH-1-COM",
-      "tipo": "D7",
       "desarrolloId": 16,
       "sup": 33.41,
-      "precio": "$2,121,535",
+      "precio": "2121535.00",
       "estatus": "Vendida",
       "imagen": "",
       "espacios": {
@@ -517,16 +515,16 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D7-MH-1-COM",
+      "tipologia": "D7"
     },
     {
       "id": 8,
       "clave": "D8",
-      "tipologia": "D8-MH-1-COM",
-      "tipo": "D8",
       "desarrolloId": 16,
       "sup": 22.44,
-      "precio": "$1,424,940",
+      "precio": "1424940.00",
       "estatus": "Vendida",
       "imagen": "",
       "espacios": {
@@ -534,16 +532,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D8-MH-1-COM",
+      "tipologia": "D8"
     },
     {
       "id": 9,
       "clave": "D9",
-      "tipologia": "D9-MH-1-COM",
-      "tipo": "D9",
       "desarrolloId": 16,
       "sup": 26.11,
-      "precio": "$1,657,985",
+      "precio": "1657985.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -551,16 +549,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D9-MH-1-COM",
+      "tipologia": "D9"
     },
     {
       "id": 10,
       "clave": "D10",
-      "tipologia": "D10-MH-1-COM",
-      "tipo": "D10",
       "desarrolloId": 16,
       "sup": 24.87,
-      "precio": "$1,579,245",
+      "precio": "1579245.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -568,16 +566,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D10-MH-1-COM",
+      "tipologia": "D10"
     },
     {
       "id": 11,
       "clave": "D11",
-      "tipologia": "D11-MH-1-COM",
-      "tipo": "D11",
       "desarrolloId": 16,
       "sup": 24.69,
-      "precio": "$1,567,815",
+      "precio": "1567815.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -585,16 +583,16 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D11-MH-1-COM",
+      "tipologia": "D11"
     },
     {
       "id": 12,
       "clave": "D12",
-      "tipologia": "D12-MH-1-COM",
-      "tipo": "D12",
       "desarrolloId": 16,
       "sup": 30.46,
-      "precio": "$1,934,210",
+      "precio": "1934210.00",
       "estatus": "Disponible",
       "imagen": "",
       "espacios": {
@@ -602,13 +600,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 0
-      }
+      },
+      "codigo": "D12-MH-1-COM",
+      "tipologia": "D12"
     },
     {
       "id": 13,
       "clave": "201",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,260,750.00",
@@ -619,13 +617,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 14,
       "clave": "202",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,039,950.00",
@@ -636,13 +634,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 15,
       "clave": "203",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,177,450.00",
@@ -653,13 +651,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 16,
       "clave": "204",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.72,
       "precio": "$3,223,680.00",
@@ -670,13 +668,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 17,
       "clave": "205",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,715,150.00",
@@ -687,13 +685,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 18,
       "clave": "206",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,039,450.00",
@@ -704,13 +702,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 19,
       "clave": "207",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$3,891,600.00",
@@ -721,13 +719,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 20,
       "clave": "301",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,303,358.00",
@@ -738,13 +736,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 21,
       "clave": "302",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,080,350.00",
@@ -755,13 +753,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 22,
       "clave": "303",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,209,225.00",
@@ -772,13 +770,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 23,
       "clave": "304",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,209,225.00",
@@ -789,13 +787,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 24,
       "clave": "305",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,742,302.00",
@@ -806,13 +804,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 25,
       "clave": "306",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,069,845.00",
@@ -823,13 +821,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 26,
       "clave": "307",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$3,930,516.00",
@@ -840,13 +838,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 27,
       "clave": "401",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,346,391.00",
@@ -857,13 +855,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 28,
       "clave": "402",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,121,153.00",
@@ -874,13 +872,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 29,
       "clave": "403",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,241,317.00",
@@ -891,13 +889,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 30,
       "clave": "404",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,241,317.00",
@@ -908,13 +906,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 31,
       "clave": "405",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,769,725.00",
@@ -925,13 +923,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 32,
       "clave": "406",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,100,543.00",
@@ -942,13 +940,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 33,
       "clave": "407",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$3,969,821.00",
@@ -959,13 +957,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 34,
       "clave": "501",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,389,855.00",
@@ -976,13 +974,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 35,
       "clave": "502",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,162,365.00",
@@ -993,13 +991,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 36,
       "clave": "503",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,273,730.00",
@@ -1010,13 +1008,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 37,
       "clave": "504",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.72,
       "precio": "$3,321,361.00",
@@ -1027,13 +1025,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 38,
       "clave": "505",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,797,422.00",
@@ -1044,13 +1042,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 39,
       "clave": "506",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,131,548.00",
@@ -1061,13 +1059,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 40,
       "clave": "507",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$4,009,519.00",
@@ -1078,13 +1076,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 41,
       "clave": "601",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,433,754.00",
@@ -1095,13 +1093,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 42,
       "clave": "602",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,203,988.00",
@@ -1112,13 +1110,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 43,
       "clave": "603",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,306,467.00",
@@ -1129,13 +1127,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 44,
       "clave": "604",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,306,467.00",
@@ -1146,13 +1144,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 45,
       "clave": "605",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,825,396.00",
@@ -1163,13 +1161,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 46,
       "clave": "606",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,162,864.00",
@@ -1180,13 +1178,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 47,
       "clave": "607",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$4,049,615.00",
@@ -1197,13 +1195,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 48,
       "clave": "701",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,478,091.00",
@@ -1214,13 +1212,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 49,
       "clave": "702",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,246,028.00",
@@ -1231,13 +1229,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 50,
       "clave": "703",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,339,532.00",
@@ -1248,13 +1246,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 51,
       "clave": "704",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.72,
       "precio": "$3,388,120.00",
@@ -1265,13 +1263,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 52,
       "clave": "705",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,853,650.00",
@@ -1282,13 +1280,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 53,
       "clave": "706",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,194,493.00",
@@ -1299,13 +1297,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 54,
       "clave": "707",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$4,090,111.00",
@@ -1316,13 +1314,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 55,
       "clave": "801",
-      "tipologia": "TIPO 1-MH-10000",
-      "tipo": "TIPO 1",
       "desarrolloId": 3,
       "sup": 61.75,
       "precio": "$4,522,872.00",
@@ -1333,13 +1331,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 1-MH-10000",
+      "tipologia": "TIPO 1"
     },
     {
       "id": 56,
       "clave": "802",
-      "tipologia": "TIPO 2-MH-10000",
-      "tipo": "TIPO 2",
       "desarrolloId": 3,
       "sup": 58.55,
       "precio": "$4,288,488.00",
@@ -1350,13 +1348,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 2-MH-10000",
+      "tipologia": "TIPO 2"
     },
     {
       "id": 57,
       "clave": "803",
-      "tipologia": "TIPO 3-MH-10000",
-      "tipo": "TIPO 3",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,372,927.00",
@@ -1367,13 +1365,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 3-MH-10000",
+      "tipologia": "TIPO 3"
     },
     {
       "id": 58,
       "clave": "804",
-      "tipologia": "TIPO 4-MH-10000",
-      "tipo": "TIPO 4",
       "desarrolloId": 3,
       "sup": 46.05,
       "precio": "$3,372,927.00",
@@ -1384,13 +1382,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 4-MH-10000",
+      "tipologia": "TIPO 4"
     },
     {
       "id": 59,
       "clave": "805",
-      "tipologia": "TIPO 5-MH-10000",
-      "tipo": "TIPO 5",
       "desarrolloId": 3,
       "sup": 39.35,
       "precio": "$2,882,186.00",
@@ -1401,13 +1399,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 5-MH-10000",
+      "tipologia": "TIPO 5"
     },
     {
       "id": 60,
       "clave": "806",
-      "tipologia": "TIPO 6-MH-10000",
-      "tipo": "TIPO 6",
       "desarrolloId": 3,
       "sup": 44.05,
       "precio": "$3,226,437.00",
@@ -1418,13 +1416,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 6-MH-10000",
+      "tipologia": "TIPO 6"
     },
     {
       "id": 61,
       "clave": "807",
-      "tipologia": "TIPO 7-MH-10000",
-      "tipo": "TIPO 7",
       "desarrolloId": 3,
       "sup": 56.4,
       "precio": "$4,131,012.00",
@@ -1435,13 +1433,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 7-MH-10000",
+      "tipologia": "TIPO 7"
     },
     {
       "id": 62,
       "clave": "901 - PH1",
-      "tipologia": "TIPO 8-MH-10000",
-      "tipo": "TIPO 8",
       "desarrolloId": 3,
       "sup": 82.5,
       "precio": "$6,103,130.00",
@@ -1452,13 +1450,13 @@
         "recamaras": 3,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 8-MH-10000",
+      "tipologia": "TIPO 8"
     },
     {
       "id": 63,
       "clave": "904 - PH4",
-      "tipologia": "TIPO 11-MH-10000",
-      "tipo": "TIPO 11",
       "desarrolloId": 3,
       "sup": 90.1,
       "precio": "$6,665,358.00",
@@ -1469,13 +1467,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 11-MH-10000",
+      "tipologia": "TIPO 11"
     },
     {
       "id": 64,
       "clave": "902-A",
-      "tipologia": "902-A-MH-1-COM",
-      "tipo": "902-A",
       "desarrolloId": 16,
       "sup": 25.1,
       "precio": "$1,719,350.00",
@@ -1486,13 +1484,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "902-A-MH-1-COM",
+      "tipologia": "902-A"
     },
     {
       "id": 65,
       "clave": "902-B",
-      "tipologia": "902-B-MH-1-COM",
-      "tipo": "902-B",
       "desarrolloId": 16,
       "sup": 26,
       "precio": "$1,781,000.00",
@@ -1503,13 +1501,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "902-B-MH-1-COM",
+      "tipologia": "902-B"
     },
     {
       "id": 66,
       "clave": "902-C",
-      "tipologia": "902-C-MH-1-COM",
-      "tipo": "902-C",
       "desarrolloId": 16,
       "sup": 30.9,
       "precio": "$2,116,650.00",
@@ -1520,13 +1518,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "902-C-MH-1-COM",
+      "tipologia": "902-C"
     },
     {
       "id": 67,
       "clave": "903-A",
-      "tipologia": "903-A-MH-1-COM",
-      "tipo": "903-A",
       "desarrolloId": 16,
       "sup": 22.5,
       "precio": "$1,541,250.00",
@@ -1537,13 +1535,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "903-A-MH-1-COM",
+      "tipologia": "903-A"
     },
     {
       "id": 68,
       "clave": "903-B",
-      "tipologia": "903-B-MH-1-COM",
-      "tipo": "903-B",
       "desarrolloId": 16,
       "sup": 25.7,
       "precio": "$1,760,450.00",
@@ -1554,13 +1552,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "903-B-MH-1-COM",
+      "tipologia": "903-B"
     },
     {
       "id": 69,
       "clave": "903-C",
-      "tipologia": "903-C-MH-1-COM",
-      "tipo": "903-C",
       "desarrolloId": 16,
       "sup": 33.34,
       "precio": "$2,283,790.00",
@@ -1571,13 +1569,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "903-C-MH-1-COM",
+      "tipologia": "903-C"
     },
     {
       "id": 70,
       "clave": "101",
-      "tipologia": "TIPO 01B-MH-20000",
-      "tipo": "TIPO 01B",
       "desarrolloId": 4,
       "sup": 95.4,
       "precio": "$6,248,700.00",
@@ -1588,13 +1586,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01B-MH-20000",
+      "tipologia": "TIPO 01B"
     },
     {
       "id": 71,
       "clave": "102",
-      "tipologia": "TIPO 02B-MH-20000",
-      "tipo": "TIPO 02B",
       "desarrolloId": 4,
       "sup": 48.9,
       "precio": "$3,202,950.00",
@@ -1605,13 +1603,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02B-MH-20000",
+      "tipologia": "TIPO 02B"
     },
     {
       "id": 72,
       "clave": "104",
-      "tipologia": "TIPO 04B-MH-20000",
-      "tipo": "TIPO 04B",
       "desarrolloId": 4,
       "sup": 51.3,
       "precio": "$3,360,150.00",
@@ -1622,13 +1620,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04B-MH-20000",
+      "tipologia": "TIPO 04B"
     },
     {
       "id": 73,
       "clave": "105",
-      "tipologia": "TIPO 05B-MH-20000",
-      "tipo": "TIPO 05B",
       "desarrolloId": 4,
       "sup": 62,
       "precio": "$4,061,000.00",
@@ -1639,13 +1637,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 05B-MH-20000",
+      "tipologia": "TIPO 05B"
     },
     {
       "id": 74,
       "clave": "106",
-      "tipologia": "TIPO 06B-MH-20000",
-      "tipo": "TIPO 06B",
       "desarrolloId": 4,
       "sup": 88,
       "precio": "$5,764,000.00",
@@ -1656,13 +1654,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06B-MH-20000",
+      "tipologia": "TIPO 06B"
     },
     {
       "id": 75,
       "clave": "201",
-      "tipologia": "TIPO 01-MH-20000",
-      "tipo": "TIPO 01",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,257,074.00",
@@ -1673,13 +1671,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01-MH-20000",
+      "tipologia": "TIPO 01"
     },
     {
       "id": 76,
       "clave": "202",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,712,355.00",
@@ -1690,13 +1688,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 77,
       "clave": "203",
-      "tipologia": "TIPO 03B-MH-20000",
-      "tipo": "TIPO 03B",
       "desarrolloId": 4,
       "sup": 50.28,
       "precio": "$3,326,273.00",
@@ -1707,13 +1705,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03B-MH-20000",
+      "tipologia": "TIPO 03B"
     },
     {
       "id": 78,
       "clave": "204",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$2,897,589.00",
@@ -1724,13 +1722,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 79,
       "clave": "205",
-      "tipologia": "TIPO 05-MH-20000",
-      "tipo": "TIPO 05",
       "desarrolloId": 4,
       "sup": 43.1,
       "precio": "$2,851,281.00",
@@ -1741,13 +1739,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 05-MH-20000",
+      "tipologia": "TIPO 05"
     },
     {
       "id": 80,
       "clave": "206",
-      "tipologia": "TIPO 06-MH-20000",
-      "tipo": "TIPO 06",
       "desarrolloId": 4,
       "sup": 68.35,
       "precio": "$4,521,694.00",
@@ -1758,13 +1756,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06-MH-20000",
+      "tipologia": "TIPO 06"
     },
     {
       "id": 81,
       "clave": "301",
-      "tipologia": "TIPO 01-MH-20000",
-      "tipo": "TIPO 01",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,299,645.00",
@@ -1775,13 +1773,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01-MH-20000",
+      "tipologia": "TIPO 01"
     },
     {
       "id": 82,
       "clave": "302",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,739,479.00",
@@ -1792,13 +1790,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 83,
       "clave": "303",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,418,759.00",
@@ -1809,13 +1807,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 84,
       "clave": "304",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$2,926,565.00",
@@ -1826,13 +1824,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 85,
       "clave": "305",
-      "tipologia": "TIPO 05-MH-20000",
-      "tipo": "TIPO 05",
       "desarrolloId": 4,
       "sup": 43.1,
       "precio": "$2,879,793.00",
@@ -1843,13 +1841,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 05-MH-20000",
+      "tipologia": "TIPO 05"
     },
     {
       "id": 86,
       "clave": "306",
-      "tipologia": "TIPO 06-MH-20000",
-      "tipo": "TIPO 06",
       "desarrolloId": 4,
       "sup": 68.35,
       "precio": "$4,566,911.00",
@@ -1860,13 +1858,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06-MH-20000",
+      "tipologia": "TIPO 06"
     },
     {
       "id": 87,
       "clave": "401",
-      "tipologia": "TIPO 01-MH-20000",
-      "tipo": "TIPO 01",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,342,641.00",
@@ -1877,13 +1875,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01-MH-20000",
+      "tipologia": "TIPO 01"
     },
     {
       "id": 88,
       "clave": "402",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,766,873.00",
@@ -1894,13 +1892,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 89,
       "clave": "403",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,442,947.00",
@@ -1911,13 +1909,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 90,
       "clave": "404",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$2,955,831.00",
@@ -1928,13 +1926,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 91,
       "clave": "405",
-      "tipologia": "TIPO 05-MH-20000",
-      "tipo": "TIPO 05",
       "desarrolloId": 4,
       "sup": 43.1,
       "precio": "$2,908,591.00",
@@ -1945,13 +1943,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 05-MH-20000",
+      "tipologia": "TIPO 05"
     },
     {
       "id": 92,
       "clave": "406",
-      "tipologia": "TIPO 06-MH-20000",
-      "tipo": "TIPO 06",
       "desarrolloId": 4,
       "sup": 68.35,
       "precio": "$4,612,580.00",
@@ -1962,13 +1960,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06-MH-20000",
+      "tipologia": "TIPO 06"
     },
     {
       "id": 93,
       "clave": "501",
-      "tipologia": "TIPO 01-MH-20000",
-      "tipo": "TIPO 01",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,386,068.00",
@@ -1979,13 +1977,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01-MH-20000",
+      "tipologia": "TIPO 01"
     },
     {
       "id": 94,
       "clave": "502",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,794,542.00",
@@ -1996,13 +1994,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 95,
       "clave": "503",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,467,376.00",
@@ -2013,13 +2011,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 96,
       "clave": "504",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$2,985,389.00",
@@ -2030,13 +2028,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 97,
       "clave": "505",
-      "tipologia": "TIPO 05-MH-20000",
-      "tipo": "TIPO 05",
       "desarrolloId": 4,
       "sup": 43.1,
       "precio": "$2,937,677.00",
@@ -2047,13 +2045,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 05-MH-20000",
+      "tipologia": "TIPO 05"
     },
     {
       "id": 98,
       "clave": "506",
-      "tipologia": "TIPO 06-MH-20000",
-      "tipo": "TIPO 06",
       "desarrolloId": 4,
       "sup": 68.35,
       "precio": "$4,658,706.00",
@@ -2064,13 +2062,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06-MH-20000",
+      "tipologia": "TIPO 06"
     },
     {
       "id": 99,
       "clave": "601",
-      "tipologia": "TIPO 01-MH-20000",
-      "tipo": "TIPO 01",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,429,929.00",
@@ -2081,13 +2079,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01-MH-20000",
+      "tipologia": "TIPO 01"
     },
     {
       "id": 100,
       "clave": "602",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,822,487.00",
@@ -2098,13 +2096,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 101,
       "clave": "603",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,492,050.00",
@@ -2115,13 +2113,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 102,
       "clave": "604",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$3,015,243.00",
@@ -2132,13 +2130,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 103,
       "clave": "605",
-      "tipologia": "TIPO 05-MH-20000",
-      "tipo": "TIPO 05",
       "desarrolloId": 4,
       "sup": 43.1,
       "precio": "$2,967,054.00",
@@ -2149,13 +2147,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 05-MH-20000",
+      "tipologia": "TIPO 05"
     },
     {
       "id": 104,
       "clave": "606",
-      "tipologia": "TIPO 06-MH-20000",
-      "tipo": "TIPO 06",
       "desarrolloId": 4,
       "sup": 68.35,
       "precio": "$4,705,293.00",
@@ -2166,13 +2164,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06-MH-20000",
+      "tipologia": "TIPO 06"
     },
     {
       "id": 105,
       "clave": "701",
-      "tipologia": "TIPO 01-MH-20000",
-      "tipo": "TIPO 01",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,474,228.00",
@@ -2183,13 +2181,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01-MH-20000",
+      "tipologia": "TIPO 01"
     },
     {
       "id": 106,
       "clave": "702",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,850,712.00",
@@ -2200,13 +2198,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 107,
       "clave": "703",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,516,970.00",
@@ -2217,13 +2215,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 108,
       "clave": "704",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$3,045,395.00",
@@ -2234,13 +2232,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 109,
       "clave": "705",
-      "tipologia": "TIPO 07-MH-20000",
-      "tipo": "TIPO 07",
       "desarrolloId": 4,
       "sup": 50.2,
       "precio": "$3,490,384.00",
@@ -2251,13 +2249,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 07-MH-20000",
+      "tipologia": "TIPO 07"
     },
     {
       "id": 110,
       "clave": "706",
-      "tipologia": "TIPO 06C-MH-20000",
-      "tipo": "TIPO 06C",
       "desarrolloId": 4,
       "sup": 59.1,
       "precio": "$4,109,198.00",
@@ -2268,13 +2266,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 06C-MH-20000",
+      "tipologia": "TIPO 06C"
     },
     {
       "id": 111,
       "clave": "801",
-      "tipologia": "TIPO 01C-MH-20000",
-      "tipo": "TIPO 01C",
       "desarrolloId": 4,
       "sup": 64.35,
       "precio": "$4,518,970.00",
@@ -2285,13 +2283,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 01C-MH-20000",
+      "tipologia": "TIPO 01C"
     },
     {
       "id": 112,
       "clave": "802",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,879,219.00",
@@ -2302,13 +2300,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 113,
       "clave": "803",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,542,140.00",
@@ -2319,13 +2317,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 114,
       "clave": "804",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$3,075,849.00",
@@ -2336,13 +2334,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 115,
       "clave": "805",
-      "tipologia": "TIPO 08-MH-20000",
-      "tipo": "TIPO 08",
       "desarrolloId": 4,
       "sup": 73.1,
       "precio": "$5,133,438.00",
@@ -2353,13 +2351,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 08-MH-20000",
+      "tipologia": "TIPO 08"
     },
     {
       "id": 116,
       "clave": "901",
-      "tipologia": "TIPO 09-MH-20000",
-      "tipo": "TIPO 09",
       "desarrolloId": 4,
       "sup": 58.2,
       "precio": "$4,127,958.00",
@@ -2370,13 +2368,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 09-MH-20000",
+      "tipologia": "TIPO 09"
     },
     {
       "id": 117,
       "clave": "902",
-      "tipologia": "TIPO 02-MH-20000",
-      "tipo": "TIPO 02",
       "desarrolloId": 4,
       "sup": 41,
       "precio": "$2,908,012.00",
@@ -2387,13 +2385,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 02-MH-20000",
+      "tipologia": "TIPO 02"
     },
     {
       "id": 118,
       "clave": "903",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,567,562.00",
@@ -2404,13 +2402,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 119,
       "clave": "904",
-      "tipologia": "TIPO 04-MH-20000",
-      "tipo": "TIPO 04",
       "desarrolloId": 4,
       "sup": 43.8,
       "precio": "$3,106,608.00",
@@ -2421,13 +2419,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 04-MH-20000",
+      "tipologia": "TIPO 04"
     },
     {
       "id": 120,
       "clave": "905",
-      "tipologia": "TIPO 10-MH-20000",
-      "tipo": "TIPO 10",
       "desarrolloId": 4,
       "sup": 72.15,
       "precio": "$5,117,391.00",
@@ -2438,13 +2436,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 10-MH-20000",
+      "tipologia": "TIPO 10"
     },
     {
       "id": 121,
       "clave": "1001",
-      "tipologia": "TIPO 11-MH-20000",
-      "tipo": "TIPO 11",
       "desarrolloId": 4,
       "sup": 37.5,
       "precio": "$2,686,364.00",
@@ -2455,13 +2453,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 11-MH-20000",
+      "tipologia": "TIPO 11"
     },
     {
       "id": 122,
       "clave": "1002",
-      "tipologia": "TIPO 12-MH-20000",
-      "tipo": "TIPO 12",
       "desarrolloId": 4,
       "sup": 53.5,
       "precio": "$3,832,547.00",
@@ -2472,13 +2470,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 12-MH-20000",
+      "tipologia": "TIPO 12"
     },
     {
       "id": 123,
       "clave": "1003",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,593,237.00",
@@ -2489,13 +2487,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 124,
       "clave": "1004",
-      "tipologia": "TIPO 13-MH-20000",
-      "tipo": "TIPO 13",
       "desarrolloId": 4,
       "sup": 50.55,
       "precio": "$3,621,219.00",
@@ -2506,13 +2504,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 13-MH-20000",
+      "tipologia": "TIPO 13"
     },
     {
       "id": 125,
       "clave": "1005",
-      "tipologia": "TIPO 14-MH-20000",
-      "tipo": "TIPO 14",
       "desarrolloId": 4,
       "sup": 46.3,
       "precio": "$3,316,765.00",
@@ -2523,13 +2521,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 14-MH-20000",
+      "tipologia": "TIPO 14"
     },
     {
       "id": 126,
       "clave": "1101",
-      "tipologia": "TIPO 15-MH-20000",
-      "tipo": "TIPO 15",
       "desarrolloId": 4,
       "sup": 84.65,
       "precio": "$6,124,660.00",
@@ -2540,13 +2538,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 15-MH-20000",
+      "tipologia": "TIPO 15"
     },
     {
       "id": 127,
       "clave": "1102",
-      "tipologia": "TIPO 16-MH-20000",
-      "tipo": "TIPO 16",
       "desarrolloId": 4,
       "sup": 69.5,
       "precio": "$5,028,516.00",
@@ -2557,13 +2555,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 16-MH-20000",
+      "tipologia": "TIPO 16"
     },
     {
       "id": 128,
       "clave": "1103",
-      "tipologia": "TIPO 03-MH-20000",
-      "tipo": "TIPO 03",
       "desarrolloId": 4,
       "sup": 36.2,
       "precio": "$2,619,170.00",
@@ -2574,13 +2572,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 03-MH-20000",
+      "tipologia": "TIPO 03"
     },
     {
       "id": 129,
       "clave": "1201",
-      "tipologia": "TIPO 17-MH-20000",
-      "tipo": "TIPO 17",
       "desarrolloId": 4,
       "sup": 75.65,
       "precio": "$5,528,220.00",
@@ -2591,13 +2589,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 17-MH-20000",
+      "tipologia": "TIPO 17"
     },
     {
       "id": 130,
       "clave": "1202",
-      "tipologia": "TIPO 18-MH-20000",
-      "tipo": "TIPO 18",
       "desarrolloId": 4,
       "sup": 55.9,
       "precio": "$4,084,964.00",
@@ -2608,13 +2606,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "TIPO 18-MH-20000",
+      "tipologia": "TIPO 18"
     },
     {
       "id": 131,
       "clave": "102",
-      "tipologia": "0-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 53.4,
       "precio": "4512300.00",
@@ -2625,13 +2623,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "0-BRIO0000",
+      "tipologia": "0"
     },
     {
       "id": 132,
       "clave": "201",
-      "tipologia": "D-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
       "precio": "3413800.00",
@@ -2642,13 +2640,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "D-BRIO0000",
+      "tipologia": "D"
     },
     {
       "id": 133,
       "clave": "203",
-      "tipologia": "F-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
       "precio": "3413800.00",
@@ -2659,13 +2657,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "F-BRIO0000",
+      "tipologia": "F"
     },
     {
       "id": 134,
       "clave": "205",
-      "tipologia": "B-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 65.2,
       "precio": "5564494.00",
@@ -2676,13 +2674,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "B-BRIO0000",
+      "tipologia": "B"
     },
     {
       "id": 135,
       "clave": "301",
-      "tipologia": "D-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
       "precio": "3447938.00",
@@ -2693,13 +2691,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "D-BRIO0000",
+      "tipologia": "D"
     },
     {
       "id": 136,
       "clave": "303",
-      "tipologia": "F-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
       "precio": "3447938.00",
@@ -2710,13 +2708,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "F-BRIO0000",
+      "tipologia": "F"
     },
     {
       "id": 137,
       "clave": "401",
-      "tipologia": "D-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 40,
       "precio": "3482417.00",
@@ -2727,13 +2725,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "D-BRIO0000",
+      "tipologia": "D"
     },
     {
       "id": 138,
       "clave": "406",
-      "tipologia": "A-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4126665.00",
@@ -2744,13 +2742,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-BRIO0000",
+      "tipologia": "A"
     },
     {
       "id": 139,
       "clave": "504",
-      "tipologia": "C-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4167931.00",
@@ -2761,13 +2759,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "C-BRIO0000",
+      "tipologia": "C"
     },
     {
       "id": 140,
       "clave": "506",
-      "tipologia": "A-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4167931.00",
@@ -2778,13 +2776,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-BRIO0000",
+      "tipologia": "A"
     },
     {
       "id": 141,
       "clave": "604",
-      "tipologia": "C-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 43.3,
       "precio": "3845488.00",
@@ -2795,13 +2793,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "C-BRIO0000",
+      "tipologia": "C"
     },
     {
       "id": 142,
       "clave": "606",
-      "tipologia": "A-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4209611.00",
@@ -2812,13 +2810,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-BRIO0000",
+      "tipologia": "A"
     },
     {
       "id": 143,
       "clave": "704",
-      "tipologia": "C-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4251707.00",
@@ -2829,13 +2827,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "C-BRIO0000",
+      "tipologia": "C"
     },
     {
       "id": 144,
       "clave": "706",
-      "tipologia": "A-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4251707.00",
@@ -2846,13 +2844,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-BRIO0000",
+      "tipologia": "A"
     },
     {
       "id": 145,
       "clave": "804",
-      "tipologia": "C-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4294224.00",
@@ -2863,13 +2861,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "C-BRIO0000",
+      "tipologia": "C"
     },
     {
       "id": 146,
       "clave": "805",
-      "tipologia": "B-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 65.2,
       "precio": "5906823.00",
@@ -2880,13 +2878,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "B-BRIO0000",
+      "tipologia": "B"
     },
     {
       "id": 147,
       "clave": "806",
-      "tipologia": "A-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 47.4,
       "precio": "4294224.00",
@@ -2897,13 +2895,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-BRIO0000",
+      "tipologia": "A"
     },
     {
       "id": 148,
       "clave": "905",
-      "tipologia": "A.-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 76.5,
       "precio": "6999856.00",
@@ -2914,13 +2912,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "A.-BRIO0000",
+      "tipologia": "A."
     },
     {
       "id": 149,
       "clave": "1004",
-      "tipologia": "A..-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 59.55,
       "precio": "5503397.00",
@@ -2931,13 +2929,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A..-BRIO0000",
+      "tipologia": "A.."
     },
     {
       "id": 150,
       "clave": "1005",
-      "tipologia": "A…-BRIO0000",
-      "tipo": "Departamento",
       "desarrolloId": 1,
       "sup": 59.55,
       "precio": "5503397.00",
@@ -2948,13 +2946,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A…-BRIO0000",
+      "tipologia": "A…"
     },
     {
       "id": 151,
       "clave": "101",
-      "tipologia": "GR101-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 97.5,
       "precio": "10276200.00",
@@ -2965,13 +2963,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "GR101-TREEVIEW",
+      "tipologia": "GR101"
     },
     {
       "id": 152,
       "clave": "106",
-      "tipologia": "GR106-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 155.7,
       "precio": "10276200.00",
@@ -2982,13 +2980,13 @@
         "recamaras": 3,
         "banos": 3,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "GR106-TREEVIEW",
+      "tipologia": "GR106"
     },
     {
       "id": 153,
       "clave": "G205",
-      "tipologia": "G-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 65.6,
       "precio": "5149600.00",
@@ -2999,13 +2997,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "G-TREEVIEW",
+      "tipologia": "G"
     },
     {
       "id": 154,
       "clave": "I207",
-      "tipologia": "I-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 51.2,
       "precio": "4019200.00",
@@ -3016,13 +3014,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "I-TREEVIEW",
+      "tipologia": "I"
     },
     {
       "id": 155,
       "clave": "A301",
-      "tipologia": "A-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 81.9,
       "precio": "6493442.00",
@@ -3033,13 +3031,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-TREEVIEW",
+      "tipologia": "A"
     },
     {
       "id": 156,
       "clave": "E403",
-      "tipologia": "E-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 53.7,
       "precio": "4300181.00",
@@ -3050,13 +3048,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "E-TREEVIEW",
+      "tipologia": "E"
     },
     {
       "id": 157,
       "clave": "F404",
-      "tipologia": "F-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 55.35,
       "precio": "4432309.00",
@@ -3067,13 +3065,13 @@
         "recamaras": 2,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "F-TREEVIEW",
+      "tipologia": "F"
     },
     {
       "id": 158,
       "clave": "A501",
-      "tipologia": "A-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 81.9,
       "precio": "6623960.00",
@@ -3084,13 +3082,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "A-TREEVIEW",
+      "tipologia": "A"
     },
     {
       "id": 159,
       "clave": "C503",
-      "tipologia": "C-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 82.4,
       "precio": "6664399.00",
@@ -3101,13 +3099,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "C-TREEVIEW",
+      "tipologia": "C"
     },
     {
       "id": 160,
       "clave": "PH1",
-      "tipologia": "PH1-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 151.9,
       "precio": "12657726.00",
@@ -3118,13 +3116,13 @@
         "recamaras": 4,
         "banos": 3,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "PH1-TREEVIEW",
+      "tipologia": "PH1"
     },
     {
       "id": 161,
       "clave": "PH2",
-      "tipologia": "PH2-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 150.1,
       "precio": "12507733.00",
@@ -3135,13 +3133,13 @@
         "recamaras": 4,
         "banos": 3,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "PH2-TREEVIEW",
+      "tipologia": "PH2"
     },
     {
       "id": 162,
       "clave": "PH3",
-      "tipologia": "PH3-TREEVIEW",
-      "tipo": "Departamento",
       "desarrolloId": 5,
       "sup": 153,
       "precio": "12749388.00",
@@ -3152,13 +3150,13 @@
         "recamaras": 4,
         "banos": 3,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "PH3-TREEVIEW",
+      "tipologia": "PH3"
     },
     {
       "id": 163,
       "clave": "PB3",
-      "tipologia": "CAPRI-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 82.78,
       "precio": "6760367.00",
@@ -3169,13 +3167,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "CAPRI-VEN-RESI",
+      "tipologia": "CAPRI"
     },
     {
       "id": 164,
       "clave": "PB6",
-      "tipologia": "VERONA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 100.09,
       "precio": "6626842.00",
@@ -3186,13 +3184,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "VERONA-VEN-RESI",
+      "tipologia": "VERONA"
     },
     {
       "id": 165,
       "clave": "102",
-      "tipologia": "PORTOFINO-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 76.26,
       "precio": "6227900.00",
@@ -3203,13 +3201,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "PORTOFINO-VEN-RESI",
+      "tipologia": "PORTOFINO"
     },
     {
       "id": 166,
       "clave": "104",
-      "tipologia": "AMALFI-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 62.21,
       "precio": "5080483.00",
@@ -3220,13 +3218,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "AMALFI-VEN-RESI",
+      "tipologia": "AMALFI"
     },
     {
       "id": 167,
       "clave": "105",
-      "tipologia": "FLORENCIA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 75.84,
       "precio": "6193600.00",
@@ -3237,13 +3235,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "FLORENCIA-VEN-RESI",
+      "tipologia": "FLORENCIA"
     },
     {
       "id": 168,
       "clave": "106",
-      "tipologia": "VERONA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 62.2,
       "precio": "5079667.00",
@@ -3254,13 +3252,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "VERONA-VEN-RESI",
+      "tipologia": "VERONA"
     },
     {
       "id": 169,
       "clave": "201",
-      "tipologia": "GENOVA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "5751783.00",
@@ -3271,13 +3269,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "GENOVA-VEN-RESI",
+      "tipologia": "GENOVA"
     },
     {
       "id": 170,
       "clave": "204",
-      "tipologia": "AMALFI-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 62.21,
       "precio": "5080483.00",
@@ -3288,13 +3286,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "AMALFI-VEN-RESI",
+      "tipologia": "AMALFI"
     },
     {
       "id": 171,
       "clave": "205",
-      "tipologia": "FLORENCIA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 75.84,
       "precio": "6193600.00",
@@ -3305,13 +3303,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "FLORENCIA-VEN-RESI",
+      "tipologia": "FLORENCIA"
     },
     {
       "id": 172,
       "clave": "301",
-      "tipologia": "GENOVA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "5751783.00",
@@ -3322,13 +3320,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "GENOVA-VEN-RESI",
+      "tipologia": "GENOVA"
     },
     {
       "id": 173,
       "clave": "304",
-      "tipologia": "AMALFI-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 62.19,
       "precio": "4975542.00",
@@ -3339,13 +3337,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "AMALFI-VEN-RESI",
+      "tipologia": "AMALFI"
     },
     {
       "id": 174,
       "clave": "305",
-      "tipologia": "RAVENNA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 75.82,
       "precio": "5811808.00",
@@ -3356,13 +3354,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "RAVENNA-VEN-RESI",
+      "tipologia": "RAVENNA"
     },
     {
       "id": 175,
       "clave": "403",
-      "tipologia": "NAPOLES-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 70.45,
       "precio": "5753417.00",
@@ -3373,13 +3371,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "NAPOLES-VEN-RESI",
+      "tipologia": "NAPOLES"
     },
     {
       "id": 176,
       "clave": "406",
-      "tipologia": "VERONA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 59.65,
       "precio": "4797100.00",
@@ -3390,13 +3388,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "VERONA-VEN-RESI",
+      "tipologia": "VERONA"
     },
     {
       "id": 177,
       "clave": "501",
-      "tipologia": "GENOVA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "5751783.00",
@@ -3407,13 +3405,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "GENOVA-VEN-RESI",
+      "tipologia": "GENOVA"
     },
     {
       "id": 178,
       "clave": "504",
-      "tipologia": "VIENA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 94.83,
       "precio": "6599075.00",
@@ -3424,13 +3422,13 @@
         "recamaras": 1,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "VIENA-VEN-RESI",
+      "tipologia": "VIENA"
     },
     {
       "id": 179,
       "clave": "505",
-      "tipologia": "VIENA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 96.23,
       "precio": "6705650.00",
@@ -3441,13 +3439,13 @@
         "recamaras": 1,
         "banos": 2,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "VIENA-VEN-RESI",
+      "tipologia": "VIENA"
     },
     {
       "id": 180,
       "clave": "601",
-      "tipologia": "GENOVA-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 70.43,
       "precio": "5751783.00",
@@ -3458,13 +3456,13 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
-      }
+      },
+      "codigo": "GENOVA-VEN-RESI",
+      "tipologia": "GENOVA"
     },
     {
       "id": 181,
       "clave": "602",
-      "tipologia": "PORTOFINO-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 76.23,
       "precio": "6225450.00",
@@ -3475,13 +3473,13 @@
         "recamaras": 2,
         "banos": 2,
         "estacionamiento": 2
-      }
+      },
+      "codigo": "PORTOFINO-VEN-RESI",
+      "tipologia": "PORTOFINO"
     },
     {
       "id": 182,
       "clave": "603",
-      "tipologia": "NAPOLES-VEN-RESI",
-      "tipo": "Departamento",
       "desarrolloId": 17,
       "sup": 70.45,
       "precio": "5753417.00",
@@ -3492,6 +3490,875 @@
         "recamaras": 1,
         "banos": 1,
         "estacionamiento": 1
+      },
+      "codigo": "NAPOLES-VEN-RESI",
+      "tipologia": "NAPOLES"
+    },
+    {
+      "id": 183,
+      "clave": "201",
+      "tipologia": "1",
+      "codigo": "1-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 96.84,
+      "precio": "11620800.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/1-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 184,
+      "clave": "301",
+      "tipologia": "2",
+      "codigo": "2-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 82.56,
+      "precio": "10006272.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/2-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 185,
+      "clave": "302",
+      "tipologia": "3",
+      "codigo": "3-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 75.25,
+      "precio": "$9,782,500.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/3-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 186,
+      "clave": "303",
+      "tipologia": "4",
+      "codigo": "4-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 78.54,
+      "precio": "$10,210,200.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/4-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 187,
+      "clave": "304",
+      "tipologia": "5",
+      "codigo": "5-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 83.31,
+      "precio": "$10,097,172.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/5-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 188,
+      "clave": "501",
+      "tipologia": "6B",
+      "codigo": "6B-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 95.72,
+      "precio": "$11,717,277.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6B-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 189,
+      "clave": "502",
+      "tipologia": "7C",
+      "codigo": "7C-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.48,
+      "precio": "$11,443,074.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7C-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 190,
+      "clave": "503",
+      "tipologia": "8B",
+      "codigo": "8B-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 74.24,
+      "precio": "$9,747,712.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/8B-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 191,
+      "clave": "504",
+      "tipologia": "9B",
+      "codigo": "9B-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 97.52,
+      "precio": "$11,937,618.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/9B-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 192,
+      "clave": "601",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$11,338,669.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 193,
+      "clave": "602",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$11,563,686.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 194,
+      "clave": "603",
+      "tipologia": "8A",
+      "codigo": "8A-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 64.78,
+      "precio": "$8,590,670.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/8A-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 195,
+      "clave": "604",
+      "tipologia": "9A",
+      "codigo": "9A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 87.09,
+      "precio": "$10,767,470.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/9A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 196,
+      "clave": "701",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$11,452,055.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 197,
+      "clave": "702",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$11,679,323.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 198,
+      "clave": "703",
+      "tipologia": "8A",
+      "codigo": "8A-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 64.78,
+      "precio": "$8,676,577.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/8A-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 199,
+      "clave": "704",
+      "tipologia": "9A",
+      "codigo": "9A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 87.09,
+      "precio": "$10,875,144.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/9A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 200,
+      "clave": "801",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$11,566,576.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 201,
+      "clave": "802",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$11,796,116.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 202,
+      "clave": "803",
+      "tipologia": "8A",
+      "codigo": "8A-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 64.78,
+      "precio": "$8,763,343.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/8A-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 203,
+      "clave": "804",
+      "tipologia": "9A",
+      "codigo": "9A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 87.09,
+      "precio": "$10,983,896.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/9A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 204,
+      "clave": "901",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$11,682,242.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 205,
+      "clave": "902",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$11,914,078.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 206,
+      "clave": "903",
+      "tipologia": "8A",
+      "codigo": "8A-MH-SIGNC",
+      "desarrolloId": 15,
+      "sup": 64.78,
+      "precio": "$8,850,976.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/8A-MH-SIGNC.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 207,
+      "clave": "904",
+      "tipologia": "9A",
+      "codigo": "9A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 87.09,
+      "precio": "$11,093,735.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/9A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 208,
+      "clave": "1001",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$11,799,064.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 209,
+      "clave": "1002",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$12,033,218.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 210,
+      "clave": "1003",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$19,697,271.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 10,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 211,
+      "clave": "1101",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$11,917,055.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 11,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 212,
+      "clave": "1102",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$12,153,551.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 11,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 213,
+      "clave": "1103",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$19,894,243.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 11,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 214,
+      "clave": "1201",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$12,036,225.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 12,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 215,
+      "clave": "1202",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$12,275,086.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 12,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 216,
+      "clave": "1203",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$20,093,186.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 12,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 217,
+      "clave": "1301",
+      "tipologia": "6A",
+      "codigo": "6A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 91.71,
+      "precio": "$12,156,587.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/6A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 13,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 218,
+      "clave": "1302",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$12,397,837.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 13,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 219,
+      "clave": "1303",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$20,294,118.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 13,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 220,
+      "clave": "1401",
+      "tipologia": "10",
+      "codigo": "10-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 86.24,
+      "precio": "$8,187,626.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/10-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 14,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 221,
+      "clave": "1402",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$12,521,815.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 14,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 222,
+      "clave": "1502",
+      "tipologia": "7A",
+      "codigo": "7A-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 93.53,
+      "precio": "$12,647,033.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7A-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 15,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 223,
+      "clave": "1602",
+      "tipologia": "7B",
+      "codigo": "7B-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 96.62,
+      "precio": "$13,195,509.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7B-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 16,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 224,
+      "clave": "1603",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$20,909,050.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 16,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 225,
+      "clave": "1702",
+      "tipologia": "7B",
+      "codigo": "7B-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 96.62,
+      "precio": "$13,327,464.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7B-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 17,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 226,
+      "clave": "1703",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$21,118,140.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 17,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 227,
+      "clave": "1802",
+      "tipologia": "7B",
+      "codigo": "7B-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 96.62,
+      "precio": "$13,460,738.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7B-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 18,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 228,
+      "clave": "1803",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$21,329,322.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 18,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 229,
+      "clave": "1902",
+      "tipologia": "7B",
+      "codigo": "7B-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 96.62,
+      "precio": "$13,595,346.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/7B-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 19,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 230,
+      "clave": "1903",
+      "tipologia": "11",
+      "codigo": "11-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 153.1,
+      "precio": "$21,542,615.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/11-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 19,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 231,
+      "clave": "PH 01",
+      "tipologia": "12",
+      "codigo": "12-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 170.02,
+      "precio": "$24,162,653.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/12-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 20,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
+      }
+    },
+    {
+      "id": 232,
+      "clave": "PH 02",
+      "tipologia": "13",
+      "codigo": "13-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 104.42,
+      "precio": "$14,839,808.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/13-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 20,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 2
+      }
+    },
+    {
+      "id": 233,
+      "clave": "PH 03",
+      "tipologia": "14",
+      "codigo": "14-MH-SIGNA",
+      "desarrolloId": 15,
+      "sup": 155.59,
+      "precio": "$22,111,911.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Signature/14-MH-SIGNA.webp",
+      "espacios": {
+        "nivel": 20,
+        "recamaras": 3,
+        "banos": 3,
+        "estacionamiento": 3
       }
     }
   ],
@@ -4245,6 +5112,13 @@
       "35-35-30": 5,
       "90-10": 9
     },
+    "15": {
+      "20-20-60": 6,
+      "30-70": 1e-19,
+      "25-25-50": 11,
+      "35-35-30": 13,
+      "90-10": 23
+    },
     "16": {
       "30-70": 3,
       "25-25-50": 7,
@@ -4343,10 +5217,10 @@
       "contado": ""
     },
     "15": {
-      "flex1": "",
-      "flex2": "",
-      "flex3": "",
-      "contado": ""
+      "flex1": "20-20-60",
+      "flex2": "25-25-50",
+      "flex3": "35-35-30",
+      "contado": "90-10"
     },
     "16": {
       "flex1": "30-70",
