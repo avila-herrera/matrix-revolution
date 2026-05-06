@@ -138,10 +138,10 @@
       "ubicacion": "Av. Mariano Otero 2510, Jardines del Bosque, 44520 Guadalajara, Jal.",
       "precioMin": "$1,850,000",
       "precioMax": "—",
-      "entrega": "8",
+      "entrega": "7",
       "estatus": "Preventa lanzamiento comercial",
       "badgeClass": "pv-permisos",
-      "imagen": "02 IMAGENES DE DESARROLLOS/MH_LIVING_I..webp",
+      "imagen": "02 IMAGENES DE DESARROLLOS/MH_LIVING_I.webp",
       "unidades": 96,
       "activoSistema": "Activo",
       "mesesEntregaInicial": 9,
@@ -367,7 +367,7 @@
     },
     {
       "id": 16,
-      "nombre": "MH Living I.",
+      "nombre": "MH Living Loft",
       "ubicacion": "Av. Mariano Otero 2510, Jardines del Bosque, 44520 Guadalajara, Jal.",
       "desarrolladorId": 1,
       "precioMax": "—",
@@ -375,9 +375,9 @@
       "cronometroActivo": true,
       "fechaEntregaObjetivo": "2026-12-23T23:43:44.818Z",
       "mesesRestantesCongelados": null,
-      "entrega": "8",
+      "entrega": "7",
       "unidades": 0,
-      "imagen": "02 IMAGENES DE DESARROLLOS/MH_LIVING_I.webp",
+      "imagen": "02 IMAGENES DE DESARROLLOS/MH_LIVING_I..webp",
       "estatus": "Preventa const-acabados",
       "badgeClass": "pv-const",
       "activoSistema": "Activo"
@@ -400,1179 +400,6 @@
     }
   ],
   "unidades": [
-    {
-      "id": 1,
-      "clave": "D1",
-      "desarrolloId": 16,
-      "sup": 29.55,
-      "precio": "1876425.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D1-MH-1-COM",
-      "tipologia": "D1"
-    },
-    {
-      "id": 2,
-      "clave": "D2",
-      "desarrolloId": 16,
-      "sup": 29,
-      "precio": "1841500.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D2-MH-1-COM",
-      "tipologia": "D2"
-    },
-    {
-      "id": 3,
-      "clave": "D3",
-      "desarrolloId": 16,
-      "sup": 23.37,
-      "precio": "1483995.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D3-MH-1-COM",
-      "tipologia": "D3"
-    },
-    {
-      "id": 4,
-      "clave": "D4",
-      "desarrolloId": 16,
-      "sup": 23.22,
-      "precio": "1474470.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D4-MH-1-COM",
-      "tipologia": "D4"
-    },
-    {
-      "id": 5,
-      "clave": "D5",
-      "desarrolloId": 16,
-      "sup": 26.83,
-      "precio": "1703705.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D5-MH-1-COM",
-      "tipologia": "D5"
-    },
-    {
-      "id": 6,
-      "clave": "D6",
-      "desarrolloId": 16,
-      "sup": 29.73,
-      "precio": "1887855.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D6-MH-1-COM",
-      "tipologia": "D6"
-    },
-    {
-      "id": 7,
-      "clave": "D7",
-      "desarrolloId": 16,
-      "sup": 33.41,
-      "precio": "2121535.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D7-MH-1-COM",
-      "tipologia": "D7"
-    },
-    {
-      "id": 8,
-      "clave": "D8",
-      "desarrolloId": 16,
-      "sup": 22.44,
-      "precio": "1424940.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D8-MH-1-COM",
-      "tipologia": "D8"
-    },
-    {
-      "id": 9,
-      "clave": "D9",
-      "desarrolloId": 16,
-      "sup": 26.11,
-      "precio": "1657985.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D9-MH-1-COM",
-      "tipologia": "D9"
-    },
-    {
-      "id": 10,
-      "clave": "D10",
-      "desarrolloId": 16,
-      "sup": 24.87,
-      "precio": "1579245.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D10-MH-1-COM",
-      "tipologia": "D10"
-    },
-    {
-      "id": 11,
-      "clave": "D11",
-      "desarrolloId": 16,
-      "sup": 24.69,
-      "precio": "1567815.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D11-MH-1-COM",
-      "tipologia": "D11"
-    },
-    {
-      "id": 12,
-      "clave": "D12",
-      "desarrolloId": 16,
-      "sup": 30.46,
-      "precio": "1934210.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 0
-      },
-      "codigo": "D12-MH-1-COM",
-      "tipologia": "D12"
-    },
-    {
-      "id": 13,
-      "clave": "201",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,260,750.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 14,
-      "clave": "202",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,039,950.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 15,
-      "clave": "203",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,177,450.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 16,
-      "clave": "204",
-      "desarrolloId": 3,
-      "sup": 46.72,
-      "precio": "$3,223,680.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 17,
-      "clave": "205",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,715,150.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 18,
-      "clave": "206",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,039,450.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 19,
-      "clave": "207",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$3,891,600.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 1,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 20,
-      "clave": "301",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,303,358.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 21,
-      "clave": "302",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,080,350.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 22,
-      "clave": "303",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,209,225.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 23,
-      "clave": "304",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,209,225.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 24,
-      "clave": "305",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,742,302.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 25,
-      "clave": "306",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,069,845.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 26,
-      "clave": "307",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$3,930,516.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 2,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 27,
-      "clave": "401",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,346,391.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 28,
-      "clave": "402",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,121,153.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 29,
-      "clave": "403",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,241,317.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 30,
-      "clave": "404",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,241,317.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 31,
-      "clave": "405",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,769,725.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 32,
-      "clave": "406",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,100,543.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 33,
-      "clave": "407",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$3,969,821.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 3,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 34,
-      "clave": "501",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,389,855.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 35,
-      "clave": "502",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,162,365.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 36,
-      "clave": "503",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,273,730.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 37,
-      "clave": "504",
-      "desarrolloId": 3,
-      "sup": 46.72,
-      "precio": "$3,321,361.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 38,
-      "clave": "505",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,797,422.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 39,
-      "clave": "506",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,131,548.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 40,
-      "clave": "507",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$4,009,519.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 4,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 41,
-      "clave": "601",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,433,754.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 42,
-      "clave": "602",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,203,988.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 43,
-      "clave": "603",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,306,467.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 44,
-      "clave": "604",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,306,467.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 45,
-      "clave": "605",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,825,396.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 46,
-      "clave": "606",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,162,864.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 47,
-      "clave": "607",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$4,049,615.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 5,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 48,
-      "clave": "701",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,478,091.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 49,
-      "clave": "702",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,246,028.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 50,
-      "clave": "703",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,339,532.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 51,
-      "clave": "704",
-      "desarrolloId": 3,
-      "sup": 46.72,
-      "precio": "$3,388,120.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 52,
-      "clave": "705",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,853,650.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 53,
-      "clave": "706",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,194,493.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 54,
-      "clave": "707",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$4,090,111.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 6,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 55,
-      "clave": "801",
-      "desarrolloId": 3,
-      "sup": 61.75,
-      "precio": "$4,522,872.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 1-MH-10000",
-      "tipologia": "TIPO 1"
-    },
-    {
-      "id": 56,
-      "clave": "802",
-      "desarrolloId": 3,
-      "sup": 58.55,
-      "precio": "$4,288,488.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 2-MH-10000",
-      "tipologia": "TIPO 2"
-    },
-    {
-      "id": 57,
-      "clave": "803",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,372,927.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 3-MH-10000",
-      "tipologia": "TIPO 3"
-    },
-    {
-      "id": 58,
-      "clave": "804",
-      "desarrolloId": 3,
-      "sup": 46.05,
-      "precio": "$3,372,927.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 4-MH-10000",
-      "tipologia": "TIPO 4"
-    },
-    {
-      "id": 59,
-      "clave": "805",
-      "desarrolloId": 3,
-      "sup": 39.35,
-      "precio": "$2,882,186.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 5-MH-10000",
-      "tipologia": "TIPO 5"
-    },
-    {
-      "id": 60,
-      "clave": "806",
-      "desarrolloId": 3,
-      "sup": 44.05,
-      "precio": "$3,226,437.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 6-MH-10000",
-      "tipologia": "TIPO 6"
-    },
-    {
-      "id": 61,
-      "clave": "807",
-      "desarrolloId": 3,
-      "sup": 56.4,
-      "precio": "$4,131,012.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 7,
-        "recamaras": 2,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 7-MH-10000",
-      "tipologia": "TIPO 7"
-    },
-    {
-      "id": 62,
-      "clave": "901 - PH1",
-      "desarrolloId": 3,
-      "sup": 82.5,
-      "precio": "$6,103,130.00",
-      "estatus": "Disponible",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 3,
-        "banos": 2,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 8-MH-10000",
-      "tipologia": "TIPO 8"
-    },
-    {
-      "id": 63,
-      "clave": "904 - PH4",
-      "desarrolloId": 3,
-      "sup": 90.1,
-      "precio": "$6,665,358.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 2,
-        "banos": 2,
-        "estacionamiento": 1
-      },
-      "codigo": "TIPO 11-MH-10000",
-      "tipologia": "TIPO 11"
-    },
-    {
-      "id": 64,
-      "clave": "902-A",
-      "desarrolloId": 16,
-      "sup": 25.1,
-      "precio": "$1,719,350.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "902-A-MH-1-COM",
-      "tipologia": "902-A"
-    },
-    {
-      "id": 65,
-      "clave": "902-B",
-      "desarrolloId": 16,
-      "sup": 26,
-      "precio": "$1,781,000.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "902-B-MH-1-COM",
-      "tipologia": "902-B"
-    },
-    {
-      "id": 66,
-      "clave": "902-C",
-      "desarrolloId": 16,
-      "sup": 30.9,
-      "precio": "$2,116,650.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "902-C-MH-1-COM",
-      "tipologia": "902-C"
-    },
-    {
-      "id": 67,
-      "clave": "903-A",
-      "desarrolloId": 16,
-      "sup": 22.5,
-      "precio": "$1,541,250.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "903-A-MH-1-COM",
-      "tipologia": "903-A"
-    },
-    {
-      "id": 68,
-      "clave": "903-B",
-      "desarrolloId": 16,
-      "sup": 25.7,
-      "precio": "$1,760,450.00",
-      "estatus": "Apartada",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "903-B-MH-1-COM",
-      "tipologia": "903-B"
-    },
-    {
-      "id": 69,
-      "clave": "903-C",
-      "desarrolloId": 16,
-      "sup": 33.34,
-      "precio": "$2,283,790.00",
-      "estatus": "Vendida",
-      "imagen": "",
-      "espacios": {
-        "nivel": 8,
-        "recamaras": 1,
-        "banos": 1,
-        "estacionamiento": 1
-      },
-      "codigo": "903-C-MH-1-COM",
-      "tipologia": "903-C"
-    },
     {
       "id": 70,
       "clave": "101",
@@ -4359,6 +3186,1179 @@
         "recamaras": 3,
         "banos": 3,
         "estacionamiento": 3
+      }
+    },
+    {
+      "id": 234,
+      "clave": "201",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "4260750.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 235,
+      "clave": "202",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,039,950.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 236,
+      "clave": "203",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,177,450.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 237,
+      "clave": "204",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.72,
+      "precio": "$3,223,680.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 238,
+      "clave": "205",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,715,150.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 239,
+      "clave": "206",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,039,450.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 240,
+      "clave": "207",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$3,891,600.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 241,
+      "clave": "301",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,303,358.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 242,
+      "clave": "302",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,080,350.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 243,
+      "clave": "303",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,209,225.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 244,
+      "clave": "304",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,209,225.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 245,
+      "clave": "305",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,742,302.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 246,
+      "clave": "306",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,069,845.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 247,
+      "clave": "307",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$3,930,516.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 2,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 248,
+      "clave": "401",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,346,391.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 249,
+      "clave": "402",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,121,153.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 250,
+      "clave": "403",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,241,317.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 251,
+      "clave": "404",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,241,317.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 252,
+      "clave": "405",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,769,725.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 253,
+      "clave": "406",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,100,543.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 254,
+      "clave": "407",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$3,969,821.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 3,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 255,
+      "clave": "501",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,389,855.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 256,
+      "clave": "502",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,162,365.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 257,
+      "clave": "503",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,273,730.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 258,
+      "clave": "504",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.72,
+      "precio": "$3,321,361.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 259,
+      "clave": "505",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,797,422.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 260,
+      "clave": "506",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,131,548.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 261,
+      "clave": "507",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,009,519.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 4,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 262,
+      "clave": "601",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,433,754.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 263,
+      "clave": "602",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,203,988.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 264,
+      "clave": "603",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,306,467.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 265,
+      "clave": "604",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,306,467.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 266,
+      "clave": "605",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,825,396.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 267,
+      "clave": "606",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,162,864.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 268,
+      "clave": "607",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,049,615.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 5,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 269,
+      "clave": "701",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,478,091.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 270,
+      "clave": "702",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,246,028.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 271,
+      "clave": "703",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,339,532.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 272,
+      "clave": "704",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.72,
+      "precio": "$3,388,120.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 273,
+      "clave": "705",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,853,650.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 274,
+      "clave": "706",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,194,493.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 275,
+      "clave": "707",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,090,111.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 6,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 276,
+      "clave": "801",
+      "tipologia": "TIPO 1",
+      "codigo": "TIPO 1-MH-10000",
+      "desarrolloId": 3,
+      "sup": 61.75,
+      "precio": "$4,522,872.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 1-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 277,
+      "clave": "802",
+      "tipologia": "TIPO 2",
+      "codigo": "TIPO 2-MH-10000",
+      "desarrolloId": 3,
+      "sup": 58.55,
+      "precio": "$4,288,488.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 2-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 278,
+      "clave": "803",
+      "tipologia": "TIPO 3",
+      "codigo": "TIPO 3-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,372,927.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 3-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 279,
+      "clave": "804",
+      "tipologia": "TIPO 4",
+      "codigo": "TIPO 4-MH-10000",
+      "desarrolloId": 3,
+      "sup": 46.05,
+      "precio": "$3,372,927.00",
+      "estatus": "Apartada",
+      "imagen": "MH Living I/TIPO 4-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 280,
+      "clave": "805",
+      "tipologia": "TIPO 5",
+      "codigo": "TIPO 5-MH-10000",
+      "desarrolloId": 3,
+      "sup": 39.35,
+      "precio": "$2,882,186.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 5-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 281,
+      "clave": "806",
+      "tipologia": "TIPO 6",
+      "codigo": "TIPO 6-MH-10000",
+      "desarrolloId": 3,
+      "sup": 44.05,
+      "precio": "$3,226,437.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 6-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 282,
+      "clave": "807",
+      "tipologia": "TIPO 7",
+      "codigo": "TIPO 7-MH-10000",
+      "desarrolloId": 3,
+      "sup": 56.4,
+      "precio": "$4,131,012.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 7-MH-10000.webp",
+      "espacios": {
+        "nivel": 7,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 283,
+      "clave": "901 - PH1",
+      "tipologia": "TIPO 8",
+      "codigo": "TIPO 8-MH-10000",
+      "desarrolloId": 3,
+      "sup": 82.5,
+      "precio": "$6,103,130.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living I/TIPO 8-MH-10000.webp",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 3,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 284,
+      "clave": "902-A",
+      "tipologia": "902-A",
+      "codigo": "902-A-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 25.1,
+      "precio": "1719350.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/902-A-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 285,
+      "clave": "902-B",
+      "tipologia": "902-B",
+      "codigo": "902-B-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 26,
+      "precio": "$1,781,000.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/902-B-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 286,
+      "clave": "902-C",
+      "tipologia": "902-C",
+      "codigo": "902-C-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 30.9,
+      "precio": "$2,116,650.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/902-C-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 287,
+      "clave": "903-A",
+      "tipologia": "903-A",
+      "codigo": "903-A-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 22.5,
+      "precio": "$1,541,250.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/903-A-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 288,
+      "clave": "903-B",
+      "tipologia": "903-B",
+      "codigo": "903-B-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 25.7,
+      "precio": "$1,760,450.00",
+      "estatus": "Apartada",
+      "imagen": "MH Living Loft/903-B-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 289,
+      "clave": "903-C",
+      "tipologia": "903-C",
+      "codigo": "903-C-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 33.34,
+      "precio": "$2,283,790.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/903-C-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 9,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 290,
+      "clave": "904 - PH4",
+      "tipologia": "TIPO 11",
+      "codigo": "TIPO 11-MH-10000",
+      "desarrolloId": 3,
+      "sup": 90.1,
+      "precio": "$6,665,358.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living I/TIPO 11-MH-10000.webp",
+      "espacios": {
+        "nivel": 8,
+        "recamaras": 2,
+        "banos": 2,
+        "estacionamiento": 1
+      }
+    },
+    {
+      "id": 291,
+      "clave": "D1",
+      "tipologia": "D1",
+      "codigo": "D1-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 29.55,
+      "precio": "$1,876,425.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D1-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 292,
+      "clave": "D2",
+      "tipologia": "D2",
+      "codigo": "D2-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 29,
+      "precio": "$1,841,500.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D2-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 293,
+      "clave": "D3",
+      "tipologia": "D3",
+      "codigo": "D3-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 23.37,
+      "precio": "$1,483,995.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/D3-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 294,
+      "clave": "D4",
+      "tipologia": "D4",
+      "codigo": "D4-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 23.22,
+      "precio": "$1,474,470.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/D4-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 295,
+      "clave": "D5",
+      "tipologia": "D5",
+      "codigo": "D5-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 26.83,
+      "precio": "$1,703,705.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/D5-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 296,
+      "clave": "D6",
+      "tipologia": "D6",
+      "codigo": "D6-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 29.73,
+      "precio": "$1,887,855.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D6-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 297,
+      "clave": "D7",
+      "tipologia": "D7",
+      "codigo": "D7-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 33.41,
+      "precio": "$2,121,535.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/D7-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 2,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 298,
+      "clave": "D8",
+      "tipologia": "D8",
+      "codigo": "D8-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 22.44,
+      "precio": "$1,424,940.00",
+      "estatus": "Vendida",
+      "imagen": "MH Living Loft/D8-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 299,
+      "clave": "D9",
+      "tipologia": "D9",
+      "codigo": "D9-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 26.11,
+      "precio": "$1,657,985.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D9-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 300,
+      "clave": "D10",
+      "tipologia": "D10",
+      "codigo": "D10-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 24.87,
+      "precio": "$1,579,245.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D10-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 301,
+      "clave": "D11",
+      "tipologia": "D11",
+      "codigo": "D11-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 24.69,
+      "precio": "$1,567,815.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D11-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
+      }
+    },
+    {
+      "id": 302,
+      "clave": "D12",
+      "tipologia": "D12",
+      "codigo": "D12-MH-1-COM",
+      "desarrolloId": 16,
+      "sup": 30.46,
+      "precio": "$1,934,210.00",
+      "estatus": "Disponible",
+      "imagen": "MH Living Loft/D12-MH-1-COM.webp",
+      "espacios": {
+        "nivel": 1,
+        "recamaras": 1,
+        "banos": 1,
+        "estacionamiento": 0
       }
     }
   ],
